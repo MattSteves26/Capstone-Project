@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>All Player Search</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="playersearch.js" defer></script>
+</head>
+<body>
+<div class = "search-wrapper">
+  <label for="search">Search for player by name or team:</label>
+  <input type="search" id="search" data-search>
+</div>
+<div class="player-cards" data-user-cards-container>
+  <template data-user-template>
+    <div class ="card">
+      <div class="header" data-header></div>
+      <div class="body" data-body></div>
+    </div>
+  </template>
+</div>
+<a href="hockeydb.html">Home</a>
+</body>
+</html>

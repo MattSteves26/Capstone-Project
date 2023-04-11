@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "name": "Connor Bedard (C)",
+    "Stats": " GP:57-G:71-A:72-P:143    Regina St. Pats"
+  },
+
+  {
+      "id": 2,
+      "name": "Adam Fantilli (C)",
+      "Stats": "GP:36-G:30-A:35-P:65    Univ. of Michigan"
+  },
+
+  {
+      "id": 3,
+      "name": "Leo Carlsson (C)",
+      "Stats": "GP44-G:10-A:15-P:25     Orebro HK"
+  },
+
+  {
+      "id": 4,
+      "name": "Matvei Michkov (RW)",
+      "Stats": "GP:27-G:9-A:11-P:20     HK Sochi"
+  },
+
+  {
+      "id": 5,
+      "name": "Will Smith (C)",
+      "Stats": "GP:52-G:42-A:62-P:104   USA U18 Team"
+  },
+
+  {
+      "id": 6,
+      "name": "Andrew Cristall (LW)",
+      "Stats": "GP:54-G:39-A:56-P:95    Kelowna Rockets"
+  },
+
+  {
+       "id": 7,
+       "name": "Eduard Sale (RW)",
+       "Stats": "GP:43-G:7-A:7-P:14     HC Kometa Brno"
+  },
+
+  {
+       "id": 8,
+       "name": "Colby Barlow (LW)",
+       "Stats": "GP:59-G:46-A:33-P:79   Owen Sound Attack"
+  },
+
+  {
+       "id": 9,
+       "name": "Zach Benson (C)",
+       "Stats": "GP:60-G:36-A:62-P:98   Winnipeg Ice"
+  },
+
+  {
+        "id": 10,
+        "name": "Brayden Yager (C)",
+        "Stats": "GP:67-G:28-A:50-P:78  Moose Jaw Warriors"
+  },
+
+  {
+         "id": 11,
+         "name": "Dalibor Dvorsky (C)",
+         "Stats": "GP:38-G:6-A:8-P:14  AIK"
+  },
+  {
+          "id": 12,
+          "name": "Ryan Leonard (C)",
+          "Stats": "GP:49-G:42-A:34-P:76  USA U18 Team"
+  },
+
+  {
+          "id": 13,
+          "name": "Axel Sandin Pellikka (D)",
+          "Stats": "GP:22-G:2-A:3-P:5   Skelleftea Aik"
+  },
+
+   {
+           "id": 14,
+           "name": "Oliver Moore (C)",
+           "Stats": "GP:53-G:26-A:38-P:64   USA U18 Team"
+   },
+
+   {
+           "id": 15,
+           "name": "David Reinbacher (D)",
+           "Stats": "GP:36-G:30-A:35-P:65   Kloten"
+   },
+
+   {
+            "id": 16,
+            "name": "Matthew Wood (L)",
+            "Stats": "GP:36-G:30-A:35-P:65  Univ. of Connecticut"
+   },
+
+   {
+             "id": 17,
+             "name": "Quentin Musty (LW)",
+             "Stats": "GP:53-G:26-A:52-P:78  Sudbury Wolves"
+   },
+
+   {
+             "id": 18,
+             "name": "Lukas Dragicevic (D)",
+             "Stats": "GP:68-G:15-A:60-P:75  Tri-City Americans"
+   },
+
+   {
+             "id": 19,
+             "name": "Charlie Stramel (F)",
+             "Stats": "GP:33-G:5-A:7-P:12   Univ. of Wisconsin"
+   },
+
+   {
+              "id": 20,
+              "name": "Riley Heidt (RW)",
+              "Stats": "GP:68-G:25-A:72-P:97    Prince George Cougars"
+   },
+
+   {
+              "id": 21,
+              "name": "Gavin Brindley (RW)",
+              "Stats": "GP:41-G:12-A:26-P:38    Univ. of Michigan"
+   },
+
+   {
+               "id": 22,
+               "name": "Mikhail Gulyayev (D)",
+               "Stats": "GP:22-G:2-A:23-P:25    Omskie Yastreby"
+   },
+
+   {
+               "id": 23,
+               "name": "Nate Danielson (RW)",
+               "Stats": "GP:68-G:33-A:45-P:78   Brandon Wheat Kings"
+   },
+
+   {
+                "id": 24,
+                "name": "Gabe Perreault (RW)",
+                "Stats": "GP:55-G:46-A:64-P:110  USA U18 Team"
+   },
+
+   {
+                "id": 25,
+                "name": "Calum Ritchie (C)",
+                "Stats": "GP:59-G:24-A:35-P:59   Oshawa Generals"
+   },
+
+   {
+                 "id": 26,
+                 "name": "Oliver Bonk (D)",
+                 "Stats": "GP:67-G:10-A:30-P:40  London Knights"
+   },
+
+   {
+                 "id": 27,
+                 "name": "Otto Stenburg (C)",
+                 "Stats": "GP:29-G:11-A:15-P:26  Frolunda HC J20"
+   },
+
+   {
+                  "id": 28,
+                  "name": "Zeb Forsfjall (C)",
+                  "Stats": "GP:34-G:8-A:14-P:22 Skelleftea AIK J20"
+   },
+
+   {
+                   "id": 29,
+                   "name": "Samuel Honzek (C)",
+                   "Stats": "GP:43-G:23-A:33-P:56   Vancouver Giants"
+   },
+
+   {
+                   "id": 30,
+                   "name": "Daniil But (LW)",
+                   "Stats": "GP:26-G:15-A:11-P:26   Loko Yaroslavl"
+   }
+
+]

@@ -1,0 +1,4277 @@
+[
+   {
+    "id": 1,
+    "name": "Nathan Beaulieu (D)",
+    "team": "ANA"
+  },
+
+  {
+      "id": 2,
+      "name": "Simon Benoit (D)",
+      "team": "ANA"
+  },
+
+  {
+      "id": 3,
+      "name": "Sam Carrick (F)",
+      "team": "ANA"
+  },
+
+  {
+      "id": 4,
+      "name": "Max Comtois (F)",
+      "team": "ANA"
+  },
+
+  {
+      "id": 5,
+      "name": "Lukas Dostal (G)",
+      "team": "ANA"
+  },
+
+  {
+      "id": 6,
+      "name": "Olle Eriksson Ek (G)",
+      "team": "ANA"
+  },
+
+  {
+       "id": 7,
+       "name": "Cam Fowler (F)",
+       "team": "ANA"
+  },
+
+  {
+       "id": 8,
+       "name": "John Gibson (G)",
+       "team": "ANA"
+  },
+
+  {
+       "id": 9,
+       "name": "Derek Grant (F)",
+       "team": "ANA"
+  },
+
+  {
+        "id": 10,
+        "name": "Scott Harrington (D)",
+        "team": "ANA"
+  },
+
+  {
+         "id": 11,
+         "name": "Adam Henrique (F)",
+         "team": "ANA"
+  },
+  {
+          "id": 12,
+          "name": "Max Jones (F)",
+          "team": "ANA"
+  },
+
+  {
+          "id": 13,
+          "name": "Brett Leason (F)",
+          "team": "ANA"
+  },
+
+   {
+           "id": 14,
+           "name": "Isac Lundestrom (F)",
+           "team": "ANA"
+   },
+
+   {
+           "id": 15,
+           "name": "Brock McGinn (F)",
+           "team": "ANA"
+   },
+
+   {
+            "id": 16,
+            "name": "Mason McTavish (D)",
+            "team": "ANA"
+   },
+
+   {
+             "id": 17,
+             "name": "Jayson Megna (F)",
+             "team": "ANA"
+   },
+
+   {
+             "id": 18,
+             "name": "Nikita Mesterenko (F)",
+             "team": "ANA"
+   },
+
+   {
+             "id": 19,
+             "name": "Kevin Shattenkirk (D)",
+             "team": "ANA"
+   },
+
+   {
+              "id": 20,
+              "name": "Jakob Silferberg (F)",
+              "team": "ANA"
+   },
+
+   {
+              "id": 21,
+              "name": "Ryan Strome (F)",
+              "team": "ANA"
+   },
+
+   {
+               "id": 22,
+               "name": "Troy Terry (F)",
+               "team": "ANA"
+   },
+
+   {
+               "id": 23,
+               "name": "Frank Vatrano (F)",
+               "team": "ANA"
+   },
+
+   {
+                "id": 24,
+                "name": "Colton White (D)",
+                "team": "ANA"
+   },
+
+   {
+                "id": 25,
+                "name": "Trevor Zegras",
+                "team": "ANA"
+   },
+
+   {
+                 "id": 26,
+                 "name": "Oliver Bonk (D)",
+                 "team": "ANA"
+   },
+
+   {
+                 "id": 27,
+                 "name": "Travis Boyd (F)",
+                 "team": "ARI"
+   },
+
+   {
+                  "id": 28,
+                  "name": "Josh Brown (D)",
+                  "team": "ARI"
+   },
+
+   {
+                   "id": 29,
+                   "name": "Lawson Crouse (F)",
+                   "team": "ARI"
+   },
+
+   {
+                   "id": 30,
+                   "name": "Laurent Dauphin",
+                   "team": "ARI"
+   },
+
+   {
+    "id": 31,
+    "name": "Josh Doan (F)",
+    "team": "ARI"
+  },
+
+  {
+      "id": 32,
+      "name": "Christian Fischer (F)",
+      "team": "ARI"
+  },
+
+  {
+      "id": 33,
+      "name": "Barrett Hayton (F)",
+      "team": "ARI"
+  },
+
+  {
+      "id": 34,
+      "name": "Connor Ingram (G)",
+      "team": "ARI"
+  },
+
+  {
+      "id": 35,
+      "name": "Zack Kassian (F)",
+      "team": "ARI"
+  },
+
+  {
+      "id": 36,
+      "name": "Milos Kelemen (F)",
+      "team": "ARI"
+  },
+
+  {
+       "id": 37,
+       "name": "Clayton Keller (F)",
+       "team": "ARI"
+  },
+
+  {
+       "id": 38,
+       "name": "Matias Maccelli (F)",
+       "team": "ARI"
+  },
+
+  {
+       "id": 39,
+       "name": "Connor Mackey (D)",
+       "team": "ARI"
+  },
+
+  {
+        "id": 40,
+        "name": "Jack McBain (F)",
+        "team": "ANA"
+  },
+
+  {
+         "id": 41,
+         "name": "J.J. Moser (D)",
+         "team": "ARI"
+  },
+  {
+          "id": 42,
+          "name": "Patrik Nemeth (D)",
+          "team": "ARI"
+  },
+
+  {
+          "id": 43,
+          "name": "Liam O'Brien (F)",
+          "team": "ARI"
+  },
+
+   {
+           "id": 44,
+           "name": "Isac Lundestrom (F)",
+           "team": "ANA"
+   },
+
+   {
+           "id": 45,
+           "name": "Ivan Prosvetov (G)",
+           "team": "ANA"
+   },
+
+   {
+            "id": 46,
+            "name": "Brett Ritchie (F)",
+            "team": "ARI"
+   },
+
+   {
+             "id": 47,
+             "name": "Nick Ritchie (F)",
+             "team": "ARI"
+   },
+
+   {
+             "id": 48,
+             "name": "Nick Schmaltz (F)",
+             "team": "ARI"
+   },
+
+   {
+             "id": 49,
+             "name": "Victor Soderstrom (D)",
+             "team": "ARI"
+   },
+
+   {
+              "id": 50,
+              "name": "Juso Valimaki (D)",
+              "team": "ANA"
+   },
+
+   {
+              "id": 51,
+              "name": "Karel Vejmelka (G)",
+              "team": "ARI"
+   },
+
+   {
+               "id": 52,
+               "name": "Patrice Bergeron (F)",
+               "team": "BOS"
+   },
+
+   {
+               "id": 53,
+               "name": "Tyler Bertuzzi (F)",
+               "team": "BOS"
+   },
+
+   {
+                "id": 54,
+                "name": "Connor Carrick (D)",
+                "team": "BOS"
+   },
+
+   {
+                "id": 55,
+                "name": "Connor Clifton (D)",
+                "team": "BOS"
+   },
+
+   {
+                 "id": 56,
+                 "name": "Charlie Coyle (F)",
+                 "team": "BOS"
+   },
+
+   {
+                 "id": 57,
+                 "name": "Jake DeBrusk (F)",
+                 "team": "BOS"
+   },
+
+   {
+                  "id": 58,
+                  "name": "Derek Forbort (D)",
+                  "team": "BOS"
+   },
+
+   {
+                   "id": 59,
+                   "name": "Trent Frederic (F)",
+                   "team": "BOS"
+   },
+
+   {
+                   "id": 60,
+                   "name": "A.J. Greer (F)",
+                   "team": "BOS"
+   },
+
+   {
+    "id": 61,
+    "name": "Matt Grzelcyk (D)",
+    "team": "BOS"
+  },
+
+  {
+      "id": 62,
+      "name": "Taylor Hall (D)",
+      "team": "BOS"
+  },
+
+  {
+      "id": 63,
+      "name": "Garnet Hathaway (F)",
+      "team": "BOS"
+  },
+
+  {
+      "id": 64,
+      "name": "David Krejci (F)",
+      "team": "BOS"
+  },
+
+  {
+      "id": 65,
+      "name": "Hampus Lindholm (D)",
+      "team": "BOS"
+  },
+
+  {
+      "id": 66,
+      "name": "Brad Marchand (F)",
+      "team": "BOS"
+  },
+
+  {
+       "id": 67,
+       "name": "Charlie McAvoy (D)",
+       "team": "BOS"
+  },
+
+  {
+       "id": 68,
+       "name": "Tomas Nosek (F)",
+       "team": "BOS"
+  },
+
+  {
+       "id": 69,
+       "name": "Dmirtry Orlov (D)",
+       "team": "BOS"
+  },
+
+  {
+        "id": 70,
+        "name": "David Pastrnak (F)",
+        "team": "BOS"
+  },
+
+  {
+         "id": 71,
+         "name": "Jeremy Swayman (G)",
+         "team": "BOS"
+  },
+  {
+          "id": 72,
+          "name": "Linus Ullmark (G)",
+          "team": "BOS"
+  },
+
+  {
+          "id": 73,
+          "name": "Craig Anderson (G)",
+          "team": "BUF"
+  },
+
+   {
+           "id": 74,
+           "name": "Jacob Bryson (D)",
+           "team": "BUF"
+   },
+
+   {
+           "id": 75,
+           "name": "Eric Comrie (G)",
+           "team": "BUF"
+   },
+
+   {
+            "id": 76,
+            "name": "Dylan Cozens (F)",
+            "team": "ANA"
+   },
+
+   {
+             "id": 77,
+             "name": "Rasmus Dahlin (D)",
+             "team": "ANA"
+   },
+
+   {
+             "id": 78,
+             "name": "Zemgus Girgensons (F)",
+             "team": "BUF"
+   },
+
+   {
+             "id": 79,
+             "name": "Jordan Greenway (F)",
+             "team": "BUF"
+   },
+
+   {
+              "id": 80,
+              "name": "Vinnie Hinostroza (F)",
+              "team": "BUF"
+   },
+
+   {
+              "id": 81,
+              "name": "Henri Jokiharju (D)",
+              "team": "BUF"
+   },
+
+   {
+               "id": 82,
+               "name": "Tyson Jost (F)",
+               "team": "BUF"
+   },
+
+   {
+               "id": 83,
+               "name": "Peyton Krebs  (F)",
+               "team": "BUF"
+   },
+
+   {
+                "id": 84,
+                "name": "Ukko-Pekka Luukkonen (G)",
+                "team": "BUF"
+   },
+
+   {
+                "id": 85,
+                "name": "Ilya Lyubushkin (D)",
+                "team": "BUF"
+   },
+
+   {
+                 "id": 86,
+                 "name": "Kyle Okposo (F)",
+                 "team": "BUF"
+   },
+
+   {
+                 "id": 87,
+                 "name": "Victor Olofsson (F)",
+                 "team": "BUF"
+   },
+
+   {
+                  "id": 88,
+                  "name": "JJ Peterka (F)",
+                  "team": "BUF"
+   },
+
+   {
+                   "id": 89,
+                   "name": "Owen Power (D)",
+                   "team": "BUF"
+   },
+
+   {
+                   "id": 90,
+                   "name": "Jack Quinn (F)",
+                   "team": "BUF"
+   },
+
+   {
+    "id": 91,
+    "name": "Mattias Samuelsson (D)",
+    "team": "BUF"
+  },
+
+  {
+      "id": 92,
+      "name": "Jeff Skinner (F)",
+      "team": "BUF"
+  },
+
+  {
+      "id": 93,
+      "name": "Tage Thompson (F)",
+      "team": "BUF"
+  },
+
+  {
+      "id": 94,
+      "name": "Alex Tuch (F)",
+      "team": "BUF"
+  },
+
+  {
+      "id": 95,
+      "name": "Rasmus Andersson (D)",
+      "team": "CAL"
+  },
+
+  {
+      "id": 96,
+      "name": "Mikael Backlund (F)",
+      "team": "CAL"
+  },
+
+  {
+       "id": 97,
+       "name": "Blake Coleman (F)",
+       "team": "CAL"
+  },
+
+  {
+       "id": 98,
+       "name": "Matthew Coronato (F)",
+       "team": "CAL"
+  },
+
+  {
+       "id": 99,
+       "name": "Dillon Dube (F)",
+       "team": "CAL"
+  },
+
+  {
+        "id": 100,
+        "name": "Walker Duehr (F)",
+        "team": "CAL"
+  },
+
+  {
+      "id": 101,
+      "name": "Noah Hanifin (D)",
+      "team": "CAL"
+  },
+
+  {
+        "id": 102,
+        "name": "Jonathan Huberdeau (F)",
+        "team": "CAL"
+  },
+
+    {
+        "id": 103,
+        "name": "Nazem Kadri (F)",
+        "team": "CAL"
+    },
+
+    {
+        "id": 104,
+        "name": "Trevor Lewis (F)",
+        "team": "CAL"
+    },
+
+    {
+        "id": 105,
+        "name": "Elias Lindholm (F)",
+        "team": "CAL"
+    },
+
+    {
+        "id": 106,
+        "name": "Milan Lucic (F)",
+        "team": "CAL"
+    },
+
+    {
+         "id": 107,
+         "name": "Andrew Mangiapane (F)",
+         "team": "CAL"
+    },
+
+    {
+         "id": 108,
+         "name": "Jacob Markstrom (G)",
+         "team": "CAL"
+    },
+
+    {
+         "id": 109,
+         "name": "Jakob Pelletier (F)",
+         "team": "CAL"
+    },
+
+    {
+          "id": 110,
+          "name": "Nick Ritchie (F)",
+          "team": "CAL"
+    },
+
+    {
+           "id": 111,
+           "name": "Troy Stecher (D)",
+           "team": "CAL"
+    },
+    {
+            "id": 112,
+            "name": "Michael Stone (F)",
+            "team": "CAL"
+    },
+
+    {
+            "id": 113,
+            "name": "Chris Tanev (D)",
+            "team": "CAL"
+    },
+
+     {
+             "id": 114,
+             "name": "Tyler Toffoli (F)",
+             "team": "CAL"
+     },
+
+     {
+             "id": 115,
+             "name": "Daniel Vladar (G)",
+             "team": "CAL"
+     },
+
+     {
+              "id": 116,
+              "name": "MacKenzie Weegar (D)",
+              "team": "CAL"
+     },
+
+     {
+               "id": 117,
+               "name": "Nikita Zadorov (D)",
+               "team": "CAL"
+     },
+
+     {
+               "id": 118,
+               "name": "Sebastian Aho (F)",
+               "team": "CAR"
+     },
+
+     {
+               "id": 119,
+               "name": "Freddy Andersen (G)",
+               "team": "CAR"
+     },
+
+     {
+                "id": 120,
+                "name": "Brent Burns (D)",
+                "team": "CAL"
+     },
+
+     {
+                "id": 121,
+                "name": "Jalen Chatfield (D)",
+                "team": "CAR"
+     },
+
+     {
+                 "id": 122,
+                 "name": "Calvin de Haan (D)",
+                 "team": "CAR"
+     },
+
+     {
+                 "id": 123,
+                 "name": "Jack Drury (F)",
+                 "team": "CAR"
+     },
+
+     {
+                  "id": 124,
+                  "name": "Jesper Fast (F)",
+                  "team": "CAR"
+     },
+
+     {
+                  "id": 125,
+                  "name": "Shayne Gostisbehere (D)",
+                  "team": "CAR"
+     },
+
+     {
+                   "id": 126,
+                   "name": "Seth Jarvis (F)",
+                   "team": "CAR"
+     },
+
+     {
+                   "id": 127,
+                   "name": "Jesperi Kotkaniemi (F)",
+                   "team": "CAR"
+     },
+
+     {
+                    "id": 128,
+                    "name": "Jordan Martinook (F)",
+                    "team": "CAR"
+     },
+
+     {
+                     "id": 129,
+                     "name": "Martin Necas (F)",
+                     "team": "CAR"
+     },
+
+     {
+                     "id": 130,
+                     "name": "Stefan Noesen (F)",
+                     "team": "CAR"
+     },
+
+     {
+      "id": 131,
+      "name": "Brett Pesce (D)",
+      "team": "CAR"
+    },
+
+    {
+        "id": 132,
+        "name": "Jesse Puljujarvi (F)",
+        "team": "CAR"
+    },
+
+    {
+        "id": 133,
+        "name": "Antti Raanta (G)",
+        "team": "CAR"
+    },
+
+    {
+        "id": 134,
+        "name": "Brady Skjei (D)",
+        "team": "CAR"
+    },
+
+    {
+        "id": 135,
+        "name": "Jaccob Salvin (D)",
+        "team": "CAR"
+    },
+
+    {
+        "id": 136,
+        "name": "Jordan Staal (F)",
+        "team": "CAR"
+    },
+
+    {
+         "id": 137,
+         "name": "Paul Stastny (F)",
+         "team": "CAR"
+    },
+
+    {
+         "id": 138,
+         "name": "Derek Stepan (F)",
+         "team": "CAR"
+    },
+
+    {
+         "id": 139,
+         "name": "Teuvo Teravainen (F)",
+         "team": "CAR"
+    },
+
+    {
+          "id": 140,
+          "name": "Joey Anderson (F)",
+          "team": "CHI"
+    },
+
+    {
+           "id": 141,
+           "name": "Andreas Athanasiou (F)",
+           "team": "CHI"
+    },
+    {
+            "id": 142,
+            "name": "Anders Bjork (F)",
+            "team": "CHI"
+    },
+
+    {
+            "id": 143,
+            "name": "Jason Dickinson (F)",
+            "team": "CHI"
+    },
+
+     {
+             "id": 144,
+             "name": "Andreas Englund (D)",
+             "team": "CHI"
+     },
+
+     {
+             "id": 145,
+             "name": "Tyler Johnson (F)",
+             "team": "CHI"
+     },
+
+     {
+              "id": 146,
+              "name": "Caleb Jones (D)",
+              "team": "CHI"
+     },
+
+     {
+               "id": 147,
+               "name": "Seth Jones (D)",
+               "team": "CHI"
+     },
+
+     {
+               "id": 148,
+               "name": "Jujhar Khaira (F)",
+               "team": "CHI"
+     },
+
+     {
+               "id": 149,
+               "name": "Ian Mitchell (D)",
+               "team": "CHI"
+     },
+
+     {
+                "id": 150,
+                "name": "Ian Mitchell (D)",
+                "team": "CHI"
+     },
+
+     {
+                "id": 151,
+                "name": "Petr Mrazek (G)",
+                "team": "CHI"
+     },
+
+     {
+                 "id": 152,
+                 "name": "Connor Murphy (D)",
+                 "team": "CHI"
+     },
+
+     {
+                 "id": 153,
+                 "name": "Taylor Raddysh (F)",
+                 "team": "CHI"
+     },
+
+     {
+                  "id": 154,
+                  "name": "Lukas Reichel (F)",
+                  "team": "CHI"
+     },
+
+     {
+                  "id": 155,
+                  "name": "Alex Stalock (G)",
+                  "team": "CHI"
+     },
+
+     {
+                   "id": 156,
+                   "name": "Jarred Tinordi (D)",
+                   "team": "CHI"
+     },
+
+     {
+                   "id": 157,
+                   "name": "Jonathan Toews (F)",
+                   "team": "CHI"
+     },
+
+     {
+                    "id": 158,
+                    "name": "Alex Vlasic (D)",
+                    "team": "CHI"
+     },
+
+     {
+                     "id": 159,
+                     "name": "Nikita Zaitsev (D)",
+                     "team": "CHI"
+     },
+
+     {
+                     "id": 160,
+                     "name": "Bowen Byram (D)",
+                     "team": "COL"
+     },
+
+     {
+      "id": 161,
+      "name": "Andrew Cogliano (F)",
+      "team": "COL"
+    },
+
+    {
+        "id": 162,
+        "name": "J.T. Compher (F)",
+        "team": "COL"
+    },
+
+    {
+        "id": 163,
+        "name": "Lars Eller (F)",
+        "team": "COL"
+    },
+
+    {
+        "id": 164,
+        "name": "Pavel Francouz (F)",
+        "team": "COL"
+    },
+
+    {
+        "id": 165,
+        "name": "Alexandar Georgiev (G)",
+        "team": "COL"
+    },
+
+    {
+        "id": 166,
+        "name": "Samuel Girard (D)",
+        "team": "COL"
+    },
+
+    {
+         "id": 167,
+         "name": "Darren Helm (F)",
+         "team": "COL"
+    },
+
+    {
+         "id": 168,
+         "name": "Brad Hunt (D)",
+         "team": "COL"
+    },
+
+    {
+         "id": 169,
+         "name": "Erik Johnson (D)",
+         "team": "COL"
+    },
+
+    {
+          "id": 170,
+          "name": "Jack Johnson (D)",
+          "team": "COL"
+    },
+
+    {
+           "id": 171,
+           "name": "Artturi Lehkonen (F)",
+           "team": "COL"
+    },
+    {
+            "id": 172,
+            "name": "Kurtis MacDermid (D)",
+            "team": "COL"
+    },
+
+    {
+            "id": 173,
+            "name": "Nathan MacKinnon (F)",
+            "team": "COL"
+    },
+
+     {
+             "id": 174,
+             "name": "Cale Makar (D)",
+             "team": "COL"
+     },
+
+     {
+             "id": 175,
+             "name": "Denis Malgin (F)",
+             "team": "COL"
+     },
+
+     {
+              "id": 176,
+              "name": "Josh Manson (D)",
+              "team": "COL"
+     },
+
+     {
+               "id": 177,
+               "name": "Alex Newhook (F)",
+               "team": "COL"
+     },
+
+     {
+               "id": 178,
+               "name": "Valeri Nichushkin (F)",
+               "team": "COL"
+     },
+
+     {
+               "id": 179,
+               "name": "Matt Nieto (F)",
+               "team": "COL"
+     },
+
+     {
+                "id": 180,
+                "name": "Logan O'Connor (F)",
+                "team": "COL"
+     },
+
+     {
+                "id": 181,
+                "name": "Mikko Rantanen (F)",
+                "team": "COL"
+     },
+
+     {
+                 "id": 182,
+                 "name": "Evan Rodrigues (F)",
+                 "team": "COL"
+     },
+
+     {
+                 "id": 183,
+                 "name": "Devon Toews  (D)",
+                 "team": "COL"
+     },
+
+     {
+                  "id": 184,
+                  "name": "Gavin Bayreuther (D)",
+                  "team": "CBJ"
+     },
+
+     {
+                  "id": 185,
+                  "name": "Emil Bemstrom (F)",
+                  "team": "CBJ"
+     },
+
+     {
+                   "id": 186,
+                   "name": "Marcus Bjork (D)",
+                   "team": "CBJ"
+     },
+
+     {
+                   "id": 187,
+                   "name": "Adam Boqvist (D)",
+                   "team": "CBJ"
+     },
+
+     {
+                    "id": 188,
+                    "name": "Trey Fix-Wolansky (F)",
+                    "team": "CBJ"
+     },
+
+     {
+                     "id": 189,
+                     "name": "Liam Foudy (F)",
+                     "team": "CBJ"
+     },
+
+     {
+                     "id": 190,
+                     "name": "Johnny Gaudreau (F)",
+                     "team": "CBJ"
+     },
+
+     {
+      "id": 191,
+      "name": "Jon Gillies (G)",
+      "team": "CBJ"
+    },
+
+    {
+        "id": 192,
+        "name": "Erik Gudbranson (D)",
+        "team": "CBJ"
+    },
+
+    {
+        "id": 193,
+        "name": "Boone Jenner (F)",
+        "team": "CBJ"
+    },
+
+    {
+        "id": 194,
+        "name": "David Jiricek (D)",
+        "team": "CBJ"
+    },
+
+    {
+        "id": 195,
+        "name": "Kent Johnson (F)",
+        "team": "CBJ"
+    },
+
+    {
+        "id": 196,
+        "name": "Sean Kuraly (F)",
+        "team": "CBJ"
+    },
+
+    {
+         "id": 197,
+         "name": "Patrik Laine (F)",
+         "team": "CBJ"
+    },
+
+    {
+         "id": 198,
+         "name": "Kirill Marchenko (F)",
+         "team": "CBJ"
+    },
+
+    {
+         "id": 199,
+         "name": "Elvis Merzlikins (G)",
+         "team": "CBJ"
+    },
+
+  {
+          "id": 200,
+          "name": "Mathieu Olivier (F)",
+          "team": "CBJ"
+  },
+
+
+  {
+    "id": 201,
+    "name": "Lane Pederson (D)",
+    "team": "CBJ"
+  },
+
+  {
+      "id": 202,
+      "name": "Andrew Peeke (D)",
+      "team": "CBJ"
+  },
+
+  {
+      "id": 203,
+      "name": "Jack Roslovic (F)",
+      "team": "CBJ"
+  },
+
+  {
+      "id": 204,
+      "name": "Jamie Benn (F)",
+      "team": "DAL"
+  },
+
+  {
+      "id": 205,
+      "name": "Evgenii Dadonov (F)",
+      "team": "DAL"
+  },
+
+  {
+      "id": 206,
+      "name": "Ty Dellandrea (F)",
+      "team": "DAL"
+  },
+
+  {
+       "id": 207,
+       "name": "Max Domi (F)",
+       "team": "DAL"
+  },
+
+  {
+       "id": 208,
+       "name": "Radek Faksa (F)",
+       "team": "DAL"
+  },
+
+  {
+       "id": 209,
+       "name": "Luke Glendening (F)",
+       "team": "DAL"
+  },
+
+  {
+        "id": 210,
+        "name": "Jani Hakanpaa (D)",
+        "team": "DAL"
+  },
+
+  {
+         "id": 211,
+         "name": "Joel Hanley (D)",
+         "team": "DAL"
+  },
+  {
+          "id": 212,
+          "name": "Thomas Harley (D)",
+          "team": "DAL"
+  },
+
+  {
+          "id": 213,
+          "name": "Miro Heiskanen (D)",
+          "team": "DAL"
+  },
+
+   {
+           "id": 214,
+           "name": "Roope Hintz (F)",
+           "team": "DAL"
+   },
+
+   {
+           "id": 215,
+           "name": "Wyatt Johnston (F)",
+           "team": "DAL"
+   },
+
+   {
+            "id": 216,
+            "name": "Joel Kiviranta (F)",
+            "team": "DAL"
+   },
+
+   {
+             "id": 217,
+             "name": "Esa Lindell (D)",
+             "team": "DAL"
+   },
+
+   {
+             "id": 218,
+             "name": "Nils Lundkvist (D)",
+             "team": "DAL"
+   },
+
+   {
+             "id": 219,
+             "name": "Mason Marchment (F)",
+             "team": "DAL"
+   },
+
+   {
+              "id": 220,
+              "name": "Colin Miller (D)",
+              "team": "DAL"
+   },
+
+   {
+              "id": 221,
+              "name": "jake Oettinger (G)",
+              "team": "DAL"
+   },
+
+   {
+               "id": 222,
+               "name": "Fredrik Olofsson (F)",
+               "team": "DAL"
+   },
+
+   {
+               "id": 223,
+               "name": "Joe Pavelski (F)",
+               "team": "DAL"
+   },
+
+   {
+                "id": 224,
+                "name": "Jason Robertson (F)",
+                "team": "DAL"
+   },
+
+   {
+                "id": 225,
+                "name": "Tyler Seguin (F)",
+                "team": "DAL"
+   },
+
+   {
+                 "id": 226,
+                 "name": "Ryan Suter (D)",
+                 "team": "DAL"
+   },
+
+   {
+                 "id": 227,
+                 "name": "Ryan Suter (D)",
+                 "team": "DAL"
+   },
+
+   {
+                  "id": 228,
+                  "name": "Scott Wedgewood (G)",
+                  "team": "DAL"
+   },
+
+   {
+                   "id": 229,
+                   "name": "Jonatan Berggren (F)",
+                   "team": "DET"
+   },
+
+   {
+                   "id": 230,
+                   "name": "Ben Chiarot (D)",
+                   "team": "DET"
+   },
+
+   {
+    "id": 231,
+    "name": "Alex Chiasson (F)",
+    "team": "DET"
+  },
+
+  {
+      "id": 232,
+      "name": "Andrew Copp (F)",
+      "team": "DET"
+  },
+
+  {
+      "id": 233,
+      "name": "Austin Czarnik (F)",
+      "team": "DET"
+  },
+
+  {
+      "id": 234,
+      "name": "Adam Erne (F)",
+      "team": "DET"
+  },
+
+  {
+      "id": 235,
+      "name": "Robert Hagg (D)",
+      "team": "DET"
+  },
+
+  {
+      "id": 236,
+      "name": "Magnus Hellberg (G)",
+      "team": "DET"
+  },
+
+  {
+       "id": 237,
+       "name": "Ville Husso (G)",
+       "team": "DET"
+  },
+
+  {
+       "id": 238,
+       "name": "Marco Kasper (F)",
+       "team": "DET"
+  },
+
+  {
+       "id": 239,
+       "name": "Dominik Kubalik (F)",
+       "team": "DET"
+  },
+
+  {
+        "id": 240,
+        "name": "Dylan Larkin (F)",
+        "team": "DET"
+  },
+
+  {
+         "id": 241,
+         "name": "Matt Luff (F)",
+         "team": "DET"
+  },
+  {
+          "id": 242,
+          "name": "Olli Maataa (D)",
+          "team": "DET"
+  },
+
+  {
+          "id": 243,
+          "name": "Alex Nedeljkovic (G)",
+          "team": "DET"
+  },
+
+   {
+           "id": 244,
+           "name": "Jordan Oesterle (D)",
+           "team": "DET"
+   },
+
+   {
+           "id": 245,
+           "name": "David Perron (F)",
+           "team": "DET"
+   },
+
+   {
+            "id": 246,
+            "name": "Lucas Raymond (F)",
+            "team": "DET"
+   },
+
+   {
+             "id": 247,
+             "name": "Moritz Seider (D)",
+             "team": "DET"
+   },
+
+   {
+             "id": 248,
+             "name": "Pius Suter (F)",
+             "team": "DET"
+   },
+
+   {
+             "id": 249,
+             "name": "Joe Veleno (F)",
+             "team": "DET"
+   },
+
+   {
+              "id": 250,
+              "name": "Jake Walman (D)",
+              "team": "DET"
+   },
+
+   {
+              "id": 251,
+              "name": "Filip Zadina (F)",
+              "team": "DET"
+   },
+
+   {
+               "id": 252,
+               "name": "Nick Bjugstad (F)",
+               "team": "EDM"
+   },
+
+   {
+               "id": 253,
+               "name": "Evan Bouchard (D)",
+               "team": "EDM"
+   },
+
+   {
+                "id": 254,
+                "name": "Philip Broberg (D)",
+                "team": "EDM"
+   },
+
+   {
+                "id": 255,
+                "name": "Jack Campbell (G)",
+                "team": "EDM"
+   },
+
+   {
+                 "id": 256,
+                 "name": "Cody Ceci (D)",
+                 "team": "EDM"
+   },
+
+   {
+                 "id": 257,
+                 "name": "Jason Demers (D)",
+                 "team": "EDM"
+   },
+
+   {
+                  "id": 258,
+                  "name": "Vincent Desharnais (D)",
+                  "team": "EDM"
+   },
+
+   {
+                   "id": 259,
+                   "name": "Leon Draisaitl (F)",
+                   "team": "EDM"
+   },
+
+   {
+                   "id": 260,
+                   "name": "Mattias Ekholm (D)",
+                   "team": "EDM"
+   },
+
+   {
+    "id": 261,
+    "name": "Warren Foegele (F)",
+    "team": "EDM"
+  },
+
+  {
+      "id": 262,
+      "name": "Zach Hyman (F)",
+      "team": "EDM"
+  },
+
+  {
+      "id": 263,
+      "name": "Mattias Janmark (F)",
+      "team": "EDM"
+  },
+
+  {
+      "id": 264,
+      "name": "Evander Kane (F)",
+      "team": "EDM"
+  },
+
+  {
+      "id": 265,
+      "name": "Klim Kostin (F)",
+      "team": "EDM"
+  },
+
+  {
+      "id": 266,
+      "name": "Brett Kulak  (D)",
+      "team": "EDM"
+  },
+
+  {
+       "id": 267,
+       "name": "Connor McDavid (F)",
+       "team": "EDM"
+  },
+
+  {
+       "id": 268,
+       "name": "Ryan Nugent-Hopkins (F)",
+       "team": "EDM"
+  },
+
+  {
+       "id": 269,
+       "name": "Darnell Nurse (D)",
+       "team": "EDM"
+  },
+
+  {
+        "id": 270,
+        "name": "Derek Ryan (F)",
+        "team": "EDM"
+  },
+
+  {
+         "id": 271,
+         "name": "Devin Shore (F)",
+         "team": "EDM"
+  },
+  {
+          "id": 272,
+          "name": "Stuart Skinner (G)",
+          "team": "EDM"
+  },
+
+  {
+          "id": 273,
+          "name": "Kailer Yamamoto (F)",
+          "team": "EDM"
+  },
+
+   {
+           "id": 274,
+           "name": "Aleksander Barkov (F)",
+           "team": "FLA"
+   },
+
+   {
+           "id": 275,
+           "name": "Sam Bennett (F)",
+           "team": "FLA"
+   },
+
+   {
+            "id": 276,
+            "name": "Sergei Bobrovsky (G)",
+            "team": "FLA"
+   },
+
+   {
+             "id": 277,
+             "name": "Nick Cousins (F)",
+             "team": "FLA"
+   },
+
+   {
+             "id": 278,
+             "name": "Anthony Duclair (F)",
+             "team": "FLA"
+   },
+
+   {
+             "id": 279,
+             "name": "Aaron Ekblad (D)",
+             "team": "FLA"
+   },
+
+   {
+              "id": 280,
+              "name": "Gustav Forsling (D)",
+              "team": "FLA"
+   },
+
+   {
+              "id": 281,
+              "name": "Radko Gudas (D)",
+              "team": "FLA"
+   },
+
+   {
+               "id": 282,
+               "name": "Ryan Lomberg (F)",
+               "team": "FLA"
+   },
+
+   {
+               "id": 283,
+               "name": "Anton Lundell  (F)",
+               "team": "FLA"
+   },
+
+   {
+                "id": 284,
+                "name": "Eetu Luostarinen (F)",
+                "team": "FLA"
+   },
+
+   {
+                "id": 285,
+                "name": "Alex Lyon (G)",
+                "team": "FLA"
+   },
+
+   {
+                 "id": 286,
+                 "name": "Josh Mahura (D)",
+                 "team": "FLA"
+   },
+
+   {
+                 "id": 287,
+                 "name": "Brandon Montour (D)",
+                 "team": "FLA"
+   },
+
+   {
+                  "id": 288,
+                  "name": "Sam Reinhart (F)",
+                  "team": "FLA"
+   },
+
+   {
+                   "id": 289,
+                   "name": "Givani Smithr (F)",
+                   "team": "FLA"
+   },
+
+   {
+                   "id": 290,
+                   "name": "Eric Staal (F)",
+                   "team": "FLA"
+   },
+
+   {
+    "id": 291,
+    "name": "Marc Staal (D)",
+    "team": "FLA"
+  },
+
+  {
+      "id": 292,
+      "name": "Matthew Tkachuk (F)",
+      "team": "FLA"
+  },
+
+  {
+      "id": 293,
+      "name": "Carter Verhaeghe (F)",
+      "team": "FLA"
+  },
+
+  {
+      "id": 294,
+      "name": "Colin White (F)",
+      "team": "FLA"
+  },
+
+  {
+      "id": 295,
+      "name": "Mikey Anderson (D)",
+      "team": "LAK"
+  },
+
+  {
+      "id": 296,
+      "name": "Jaret Anderson-Dolan (F)",
+      "team": "LAK"
+  },
+
+  {
+       "id": 297,
+       "name": "Viktor Arvidsson (F)",
+       "team": "LAK"
+  },
+
+  {
+       "id": 298,
+       "name": "Quinton Byfield (F)",
+       "team": "LAK"
+  },
+
+  {
+       "id": 299,
+       "name": "Pheonix Copley (G)",
+       "team": "LAK"
+  },
+
+  {
+        "id": 300,
+        "name": "Phillip Danault (F)",
+        "team": "LAK"
+  },
+
+  {
+      "id": 301,
+      "name": "Drew Doughty (D)",
+      "team": "LAK"
+    },
+
+    {
+        "id": 302,
+        "name": "Sean Durzi (D)",
+        "team": "LAK"
+    },
+
+    {
+        "id": 303,
+        "name": "Alexander Edler (D)",
+        "team": "LAK"
+    },
+
+    {
+        "id": 304,
+        "name": "Kevin Fiala (F)",
+        "team": "LAK"
+    },
+
+    {
+        "id": 305,
+        "name": "Vladislav Gavrikov (D)",
+        "team": "LAK"
+    },
+
+    {
+        "id": 306,
+        "name": "Carl Grundstrom (F)",
+        "team": "LAK"
+    },
+
+    {
+         "id": 307,
+         "name": "Alex Iafallo (F)",
+         "team": "LAK"
+    },
+
+    {
+         "id": 308,
+         "name": "Arthur Kaliyev (F)",
+         "team": "LAK"
+    },
+
+    {
+         "id": 309,
+         "name": "Adrian Kempe (F)",
+         "team": "LAK"
+    },
+
+    {
+          "id": 310,
+          "name": "Anze Kopitar (F)",
+          "team": "LAK"
+    },
+
+    {
+           "id": 311,
+           "name": "Joonas Korpisalo (G)",
+           "team": "LAK"
+    },
+    {
+            "id": 312,
+            "name": "Rasmus Kupari (F)",
+            "team": "LAK"
+    },
+
+    {
+            "id": 313,
+            "name": "Blake Lizotte (F)",
+            "team": "LAK"
+    },
+
+     {
+             "id": 314,
+             "name": "Zack MacEwen (F)",
+             "team": "LAK"
+     },
+
+     {
+             "id": 315,
+             "name": "Trevor Moore (F)",
+             "team": "LAK"
+     },
+
+     {
+              "id": 316,
+              "name": "Matt Roy (D)",
+              "team": "LAK"
+     },
+
+     {
+               "id": 317,
+               "name": "Jordan Spence (D)",
+               "team": "LAK"
+     },
+
+     {
+               "id": 318,
+               "name": "Gabriel Vilardi (F)",
+               "team": "LAK"
+     },
+
+     {
+               "id": 319,
+               "name": "Sean Walker (D)",
+               "team": "LAK"
+     },
+
+     {
+                "id": 320,
+                "name": "Calen Addison (D)",
+                "team": "MIN"
+     },
+
+     {
+                "id": 321,
+                "name": "Matt Boldy (F)",
+                "team": "MIN"
+     },
+
+     {
+                 "id": 322,
+                 "name": "Jonas Brodin (D)",
+                 "team": "MIN"
+     },
+
+     {
+                 "id": 323,
+                 "name": "Brandon Duhaime (F)",
+                 "team": "MIN"
+     },
+
+     {
+                  "id": 324,
+                  "name": "Matt Dumba (D)",
+                  "team": "MIN"
+     },
+
+     {
+                  "id": 325,
+                  "name": "Joel Eriksson Ek (F)",
+                  "team": "MIN"
+     },
+
+     {
+                   "id": 326,
+                   "name": "Marc-Andre Fleury (G)",
+                   "team": "MIN"
+     },
+
+     {
+                   "id": 327,
+                   "name": "Marcus Foligno (F)",
+                   "team": "MIN"
+     },
+
+     {
+                    "id": 328,
+                    "name": "Frederick Gaudreau (F)",
+                    "team": "MIN"
+     },
+
+     {
+                     "id": 329,
+                     "name": "Alex Goligoski (D)",
+                     "team": "MIN"
+     },
+
+     {
+                     "id": 330,
+                     "name": "Filip Gustavsson (G)",
+                     "team": "MIN"
+     },
+
+     {
+      "id": 331,
+      "name": "Ryan Hartman (F)",
+      "team": "MIN"
+    },
+
+    {
+        "id": 332,
+        "name": "Marcus Johansson (F)",
+        "team": "MIN"
+    },
+
+    {
+        "id": 333,
+        "name": "Kirill Kaprizov (F)",
+        "team": "MIN"
+    },
+
+    {
+        "id": 334,
+        "name": "John Klingberg (D)",
+        "team": "MIN"
+    },
+
+    {
+        "id": 335,
+        "name": "Jon Merrill (D)",
+        "team": "MIN"
+    },
+
+    {
+        "id": 336,
+        "name": "Gustav Nyquist (F)",
+        "team": "MIN"
+    },
+
+    {
+         "id": 337,
+         "name": "Ryan Reaves (F)",
+         "team": "MIN"
+    },
+
+    {
+         "id": 338,
+         "name": "Marco Rossi (F)",
+         "team": "MIN"
+    },
+
+    {
+         "id": 339,
+         "name": "Jared Spurgeon (D)",
+         "team": "MIN"
+    },
+
+    {
+          "id": 340,
+          "name": "Sam Steel (F)",
+          "team": "MIN"
+    },
+
+    {
+           "id": 341,
+           "name": "Oskar Sundqvist (F)",
+           "team": "MIN"
+    },
+    {
+            "id": 342,
+            "name": "Mats Zuccarello (F)",
+            "team": "MIN"
+    },
+
+    {
+            "id": 343,
+            "name": "Jake Allen (G)",
+            "team": "MTL"
+    },
+
+     {
+             "id": 344,
+             "name": "Josh Anderson (F)",
+             "team": "MTL"
+     },
+
+     {
+             "id": 345,
+             "name": "Joel Armia (F)",
+             "team": "MTL"
+     },
+
+     {
+              "id": 346,
+              "name": "Justin Barron (D)",
+              "team": "MTL"
+     },
+
+     {
+               "id": 347,
+               "name": "Alex Belzile (F)",
+               "team": "MTL"
+     },
+
+     {
+               "id": 348,
+               "name": "Kirby Dach (F)",
+               "team": "MTL"
+     },
+
+     {
+               "id": 349,
+               "name": "Jonathan Drouin (F)",
+               "team": "MTL"
+     },
+
+     {
+                "id": 350,
+                "name": "Christian Dvorak (F)",
+                "team": "MTL"
+     },
+
+     {
+                "id": 351,
+                "name": "Joel Edmundson (D)",
+                "team": "MTL"
+     },
+
+     {
+                 "id": 352,
+                 "name": "Jake Evans (F)",
+                 "team": "MTL"
+     },
+
+     {
+                 "id": 353,
+                 "name": "Sean Farrell (F)",
+                 "team": "MTL"
+     },
+
+     {
+                  "id": 354,
+                  "name": "Brendan Gallagher (F)",
+                  "team": "MTL"
+     },
+
+     {
+                  "id": 355,
+                  "name": "Kaiden Guhle (D)",
+                  "team": "MTL"
+     },
+
+     {
+                   "id": 356,
+                   "name": "Denis Gurianov (F)",
+                   "team": "MTL"
+     },
+
+     {
+                   "id": 357,
+                   "name": "Jordan Harris (D)",
+                   "team": "MTL"
+     },
+
+     {
+                    "id": 358,
+                    "name": "Mike Hoffman (F)",
+                    "team": "MTL"
+     },
+
+     {
+                     "id": 359,
+                     "name": "Johnathan Kovacenic (D)",
+                     "team": "MTL"
+     },
+
+     {
+                     "id": 360,
+                     "name": "Sam Montembeault (G)",
+                     "team": "MTL"
+     },
+
+     {
+      "id": 361,
+      "name": "Michael Pezzetta (F)",
+      "team": "MTL"
+    },
+
+    {
+        "id": 362,
+        "name": "Rem Pitlick (F)",
+        "team": "MTL"
+    },
+
+    {
+        "id": 363,
+        "name": "David Savard (D)",
+        "team": "MTL"
+    },
+
+    {
+        "id": 364,
+        "name": "Nick Suzuki (F)",
+        "team": "MTL"
+    },
+
+    {
+        "id": 365,
+        "name": "Chris Tierney (F)",
+        "team": "MTL"
+    },
+
+    {
+        "id": 366,
+        "name": "Chris Wideman (D)",
+        "team": "MTL"
+    },
+
+    {
+         "id": 367,
+         "name": "Egor Afanasyev (F)",
+         "team": "NSH"
+    },
+
+    {
+         "id": 368,
+         "name": "Rasmus Asplund (F)",
+         "team": "NSH"
+    },
+
+    {
+         "id": 369,
+         "name": "Tyson Barrie (D)",
+         "team": "NSH"
+    },
+
+    {
+          "id": 370,
+          "name": "Alexandre Carrier (D)",
+          "team": "NSH"
+    },
+
+    {
+           "id": 371,
+           "name": "Matt Duchene (F)",
+           "team": "NSH"
+    },
+    {
+            "id": 372,
+            "name": "Luke Evangelista (F)",
+            "team": "NSH"
+    },
+
+    {
+            "id": 373,
+            "name": "Dante Fabbro (D)",
+            "team": "NSH"
+    },
+
+     {
+             "id": 374,
+             "name": "Cal Foote (D)",
+             "team": "NSH"
+     },
+
+     {
+             "id": 375,
+             "name": "Cody Glass (G)",
+             "team": "NSH"
+     },
+
+     {
+              "id": 376,
+              "name": "Mark Jankowski (F)",
+              "team": "NSH"
+     },
+
+     {
+               "id": 377,
+               "name": "Ryan Johansen (F)",
+               "team": "NSH"
+     },
+
+     {
+               "id": 378,
+               "name": "Roman Josi (D)",
+               "team": "NSH"
+     },
+
+     {
+               "id": 379,
+               "name": "Jeremy Lauzon (D)",
+               "team": "NSH"
+     },
+
+     {
+                "id": 380,
+                "name": "Ryan McDonagh (D)",
+                "team": "NSH"
+     },
+
+     {
+                "id": 381,
+                "name": "Zach Sanford (F)",
+                "team": "NSH"
+     },
+
+     {
+                 "id": 382,
+                 "name": "Juuse Saros (G)",
+                 "team": "NSH"
+     },
+
+     {
+                 "id": 383,
+                 "name": "Colton Sissions  (F)",
+                 "team": "NSH"
+     },
+
+     {
+                  "id": 384,
+                  "name": "Philip Tomasino (F)",
+                  "team": "NSH"
+     },
+
+     {
+                  "id": 385,
+                  "name": "Yakov Trenin (F)",
+                  "team": "NSH"
+     },
+
+     {
+                   "id": 386,
+                   "name": "Sebastian Aho (D)",
+                   "team": "NYI"
+     },
+
+     {
+                   "id": 387,
+                   "name": "Josh Bailey (F)",
+                   "team": "NYI"
+     },
+
+     {
+                    "id": 388,
+                    "name": "Mat Barzal (F)",
+                    "team": "NYI"
+     },
+
+     {
+                     "id": 389,
+                     "name": "Sam Bolduc (D)",
+                     "team": "NYI"
+     },
+
+     {
+                     "id": 390,
+                     "name": "Casey Cizikas (F)",
+                     "team": "NYI"
+     },
+
+     {
+      "id": 391,
+      "name": "Cal Clutterbuck (F)",
+      "team": "NYI"
+    },
+
+    {
+        "id": 392,
+        "name": "Noah Dobson (D)",
+        "team": "NYI"
+    },
+
+    {
+        "id": 393,
+        "name": "Pierre Engvall (F)",
+        "team": "NYI"
+    },
+
+    {
+        "id": 394,
+        "name": "Hudson Fasching (F)",
+        "team": "NYI"
+    },
+
+    {
+        "id": 395,
+        "name": "Simon Holmstrom (F)",
+        "team": "NYI"
+    },
+
+    {
+        "id": 396,
+        "name": "Bo Horvat (F)",
+        "team": "NYI"
+    },
+
+    {
+         "id": 397,
+         "name": "Anders Lee (F)",
+         "team": "NYI"
+    },
+
+    {
+         "id": 398,
+         "name": "Matt Martin (F)",
+         "team": "NYI"
+    },
+
+    {
+         "id": 399,
+         "name": "Scott Mayfield (F)",
+         "team": "NYI"
+    },
+
+    {
+          "id": 400,
+          "name": "Brock Nelson (F)",
+          "team": "NYI"
+    },
+
+    {
+        "id": 401,
+        "name": "J.G. Pageau (F)",
+        "team": "NYI"
+      },
+
+      {
+          "id": 402,
+          "name": "Kyle Palmieri (F)",
+          "team": "NYI"
+      },
+
+      {
+          "id": 403,
+          "name": "Zach Parise (F)",
+          "team": "NYI"
+      },
+
+      {
+          "id": 404,
+          "name": "Adam Pelech (D)",
+          "team": "NYI"
+      },
+
+      {
+          "id": 405,
+          "name": "Ryan Pulock (D)",
+          "team": "NYI"
+      },
+
+      {
+          "id": 406,
+          "name": "Alexander Romanov(D)",
+          "team": "NYI"
+      },
+
+      {
+           "id": 407,
+           "name": "Ilya Sorokin (G)",
+           "team": "NYI"
+      },
+
+      {
+           "id": 408,
+           "name": "Semyon Varlamov (G)",
+           "team": "NYI"
+      },
+
+      {
+           "id": 409,
+           "name": "Kevin Bahl (D)",
+           "team": "NJD"
+      },
+
+      {
+            "id": 410,
+            "name": "Nathan Bastian (F)",
+            "team": "NJD"
+      },
+
+      {
+             "id": 411,
+             "name": "Mackenzie Blackwood (G)",
+             "team": "NJD"
+      },
+      {
+              "id": 412,
+              "name": "Jesper Boqvist (F)",
+              "team": "NJD"
+      },
+
+      {
+              "id": 413,
+              "name": "Ryan Graves (D)",
+              "team": "NJD"
+      },
+
+       {
+               "id": 414,
+               "name": "Dougie Hamilton (D)",
+               "team": "NJD"
+       },
+
+       {
+               "id": 415,
+               "name": "Erik Haula (F)",
+               "team": "NJD"
+       },
+
+       {
+                "id": 416,
+                "name": "Nico Hischier (F)",
+                "team": "NJD"
+       },
+
+       {
+                 "id": 417,
+                 "name": "Jack Hughes (F)",
+                 "team": "NJD"
+       },
+
+       {
+                 "id": 418,
+                 "name": "Curtis Lazar (F)",
+                 "team": "NJD"
+       },
+
+       {
+                 "id": 419,
+                 "name": "John Marino (D)",
+                 "team": "NJD"
+       },
+
+       {
+                  "id": 420,
+                  "name": "Michael McLeod (D)",
+                  "team": "NJD"
+       },
+
+       {
+                  "id": 421,
+                  "name": "Timo Meier (F)",
+                  "team": "NJD"
+       },
+
+       {
+                   "id": 422,
+                   "name": "Dawson Mercer (F)",
+                   "team": "NJD"
+       },
+
+       {
+                   "id": 423,
+                   "name": "Dawson Mercer (F)",
+                   "team": "NJD"
+       },
+
+       {
+                    "id": 424,
+                    "name": "Ondrej Palat (F)",
+                    "team": "NJD"
+       },
+
+       {
+                    "id": 425,
+                    "name": "Damon Severson (D)",
+                    "team": "NJD"
+       },
+
+       {
+                     "id": 426,
+                     "name": "Yegor Sharangovich (F)",
+                     "team": "NJD"
+       },
+
+       {
+                     "id": 427,
+                     "name": "Jonas Siegenthaler (D)",
+                     "team": "NYI"
+       },
+
+       {
+                      "id": 428,
+                      "name": "Brendan Smith (D)",
+                      "team": "NJD"
+       },
+
+       {
+                       "id": 429,
+                       "name": "Tomas Tatar (F)",
+                       "team": "NJD"
+       },
+
+       {
+                       "id": 430,
+                       "name": "Vitek Vanecek (G)",
+                       "team": "NJD"
+       },
+
+       {
+        "id": 431,
+        "name": "Miles Wood (F)",
+        "team": "NJD"
+      },
+
+      {
+          "id": 432,
+          "name": "Jonny Brodzinski (F)",
+          "team": "NYR"
+      },
+
+      {
+          "id": 433,
+          "name": "Filip Chytil (F)",
+          "team": "NYR"
+      },
+
+      {
+          "id": 434,
+          "name": "Adam Fox (F)",
+          "team": "NYR"
+      },
+
+      {
+          "id": 435,
+          "name": "Barclay Goodrow (F)",
+          "team": "NYR"
+      },
+
+      {
+          "id": 436,
+          "name": "Jaroslav Halak (G)",
+          "team": "NYR"
+      },
+
+      {
+           "id": 437,
+           "name": "Ben Harpur (D)",
+           "team": "NYR"
+      },
+
+      {
+           "id": 438,
+           "name": "Patrick Kane (F)",
+           "team": "NYR"
+      },
+
+      {
+           "id": 439,
+           "name": "Alexis Lafreniere (F)",
+           "team": "NYR"
+      },
+
+      {
+            "id": 440,
+            "name": "Ryan Lindgren (D)",
+            "team": "NYR"
+      },
+
+      {
+             "id": 441,
+             "name": "Niko Mikkola (D)",
+             "team": "NYR"
+      },
+      {
+              "id": 442,
+              "name": "K'Andre Miller (D)",
+              "team": "NYR"
+      },
+
+      {
+              "id": 443,
+              "name": "Tyler Motte (F)",
+              "team": "NYR"
+      },
+
+       {
+               "id": 444,
+               "name": "Artemi Panarin (F)",
+               "team": "NYR"
+       },
+
+       {
+               "id": 445,
+               "name": "Braden Schneider (D)",
+               "team": "NYR"
+       },
+
+       {
+                "id": 446,
+                "name": "Igor Shesterkin (G)",
+                "team": "NYR"
+       },
+
+       {
+                 "id": 447,
+                 "name": "Vladimir Tarasenko (F)",
+                 "team": "NYR"
+       },
+
+       {
+                 "id": 448,
+                 "name": "Vincent Trocheck (F)",
+                 "team": "NYR"
+       },
+
+       {
+                 "id": 449,
+                 "name": "Jacob Trouba (D)",
+                 "team": "NYR"
+       },
+
+       {
+                  "id": 450,
+                  "name": "Jimmy Vesey (F)",
+                  "team": "NYR"
+       },
+
+       {
+                  "id": 451,
+                  "name": "Mika Zibanejad (F)",
+                  "team": "NYR"
+       },
+
+       {
+                   "id": 452,
+                   "name": "Drake Batherson (F)",
+                   "team": "OTT"
+       },
+
+       {
+                   "id": 453,
+                   "name": "Jacob Bernard-Docker (D)",
+                   "team": "OTT"
+       },
+
+       {
+                    "id": 454,
+                    "name": "Erik Brannstrom (D)",
+                    "team": "OTT"
+       },
+
+       {
+                    "id": 455,
+                    "name": "Derick Brassard (F)",
+                    "team": "OTT"
+       },
+
+       {
+                     "id": 456,
+                     "name": "Patrick Brown (F)",
+                     "team": "OTT"
+       },
+
+       {
+                     "id": 457,
+                     "name": "Thomas Chabot (D)",
+                     "team": "OTT"
+       },
+
+       {
+                      "id": 458,
+                      "name": "Alex DeBrincat (F)",
+                      "team": "OTT"
+       },
+
+       {
+                       "id": 459,
+                       "name": "Dylan Gambrell (F)",
+                       "team": "OTT"
+       },
+
+       {
+                       "id": 460,
+                       "name": "Julien Gauthier (F)",
+                       "team": "OTT"
+       },
+
+       {
+        "id": 461,
+        "name": "Claude Giroux (F)",
+        "team": "OTT"
+      },
+
+      {
+          "id": 462,
+          "name": "Travis Hamonic (D)",
+          "team": "OTT"
+      },
+
+      {
+          "id": 463,
+          "name": "Nick Holden (D)",
+          "team": "OTT"
+      },
+
+      {
+          "id": 464,
+          "name": "Mathieu Joseph (F)",
+          "team": "OTT"
+      },
+
+      {
+          "id": 465,
+          "name": "Shane Pinto (F)",
+          "team": "OTT"
+      },
+
+      {
+          "id": 466,
+          "name": "Jake Sanderson (D)",
+          "team": "OTT"
+      },
+
+      {
+           "id": 467,
+           "name": "Mads Sogaard (G)",
+           "team": "BOS"
+      },
+
+      {
+           "id": 468,
+           "name": "Tim Stutzle (F)",
+           "team": "OTT"
+      },
+
+      {
+           "id": 469,
+           "name": "Cam Talbot (G)",
+           "team": "BOS"
+      },
+
+      {
+            "id": 470,
+            "name": "Brady Tkachuk (F)",
+            "team": "OTT"
+      },
+
+      {
+             "id": 471,
+             "name": "Austin Watson (F)",
+             "team": "OTT"
+      },
+      {
+              "id": 472,
+              "name": "Artem Zub (D)",
+              "team": "OTT"
+      },
+
+      {
+              "id": 473,
+              "name": "Wade Allison (F)",
+              "team": "PHI"
+      },
+
+       {
+               "id": 474,
+               "name": "Kieffer Bellows (F)",
+               "team": "PHI"
+       },
+
+       {
+               "id": 475,
+               "name": "Justin Braun (D)",
+               "team": "PHI"
+       },
+
+       {
+                "id": 476,
+                "name": "Noah Cates (F)",
+                "team": "PHI"
+       },
+
+       {
+                 "id": 477,
+                 "name": "Tony DeAngelo (D)",
+                 "team": "PHI"
+       },
+
+       {
+                 "id": 478,
+                 "name": "Nicolas Deslauriers (F)",
+                 "team": "PHI"
+       },
+
+       {
+                 "id": 479,
+                 "name": "Joel Farabee (F)",
+                 "team": "PHI"
+       },
+
+       {
+                  "id": 480,
+                  "name": "Morgan Frost (F)",
+                  "team": "PHI"
+       },
+
+       {
+                  "id": 481,
+                  "name": "Henri Jokiharju (D)",
+                  "team": "PHI"
+       },
+
+       {
+                   "id": 482,
+                   "name": "Carter Hart  (G)",
+                   "team": "PHI"
+       },
+
+       {
+                   "id": 483,
+                   "name": "Kevin Hayes  (F)",
+                   "team": "PHI"
+       },
+
+       {
+                    "id": 484,
+                    "name": "Travis Konecny (F)",
+                    "team": "PHI"
+       },
+
+       {
+                    "id": 485,
+                    "name": "Brendan Lemieux (F)",
+                    "team": "PHI"
+       },
+
+       {
+                     "id": 486,
+                     "name": "Ivan Provorov (D)",
+                     "team": "PHI"
+       },
+
+       {
+                     "id": 487,
+                     "name": "Rasmus Ristolainen (D)",
+                     "team": "PHI"
+       },
+
+       {
+                      "id": 488,
+                      "name": "Felix Sandstrom (G)",
+                      "team": "PHI"
+       },
+
+       {
+                       "id": 489,
+                       "name": "Travis Sanheim (F)",
+                       "team": "PHI"
+       },
+
+       {
+                       "id": 490,
+                       "name": "Nick Seeler (D)",
+                       "team": "PHI"
+       },
+
+       {
+        "id": 491,
+        "name": "Owen Tippett (F)",
+        "team": "PHI"
+      },
+
+      {
+          "id": 492,
+          "name": "James van Riemsdyk (F)",
+          "team": "PHI"
+      },
+
+      {
+          "id": 493,
+          "name": "Cam York (D)",
+          "team": "PHI"
+      },
+
+      {
+          "id": 494,
+          "name": "Josh Archibald (F)",
+          "team": "PIT"
+      },
+
+      {
+          "id": 495,
+          "name": "Jeff Carter (F)",
+          "team": "PIT"
+      },
+
+      {
+          "id": 496,
+          "name": "Sidney Crosbey (F)",
+          "team": "PIT"
+      },
+
+      {
+           "id": 497,
+           "name": "Casey DeSmith (G)",
+           "team": "PIT"
+      },
+
+      {
+           "id": 498,
+           "name": "Brian Dumoulin (D)",
+           "team": "PIT"
+      },
+
+      {
+           "id": 499,
+           "name": "Mark Friedman (D)",
+           "team": "PIT"
+      },
+
+      {
+            "id": 500,
+            "name": "Mikael Granlund (F)",
+            "team": "PIT"
+      },
+
+      {
+          "id": 501,
+          "name": "Jake Guentzel (F)",
+          "team": "PIT"
+        },
+
+        {
+            "id": 502,
+            "name": "Danton Heinen (F)",
+            "team": "PIT"
+        },
+
+        {
+            "id": 503,
+            "name": "Tristan Jarry (G)",
+            "team": "PIT"
+        },
+
+        {
+            "id": 504,
+            "name": "P.O Joseph (D)",
+            "team": "PIT"
+        },
+
+        {
+            "id": 505,
+            "name": "Kris Letang (D)",
+            "team": "PIT"
+        },
+
+        {
+            "id": 506,
+            "name": "Drew O'Connor (F)",
+            "team": "PIT"
+        },
+
+        {
+             "id": 507,
+             "name": "Jeff Petry (D)",
+             "team": "PIT"
+        },
+
+        {
+             "id": 508,
+             "name": "Ryan Poehling (F)",
+             "team": "PIT"
+        },
+
+        {
+             "id": 509,
+             "name": "Rickard Rakell (F)",
+             "team": "PIT"
+        },
+
+        {
+              "id": 510,
+              "name": "Chad Ruhwedel (D)",
+              "team": "PIT"
+        },
+
+        {
+               "id": 511,
+               "name": "Bryan Rust (F)",
+               "team": "PIT"
+        },
+        {
+                "id": 512,
+                "name": "Jan Rutta (D)",
+                "team": "PIT"
+        },
+
+        {
+                "id": 513,
+                "name": "Jason Zucker (F)",
+                "team": "PIT"
+        },
+
+         {
+                 "id": 514,
+                 "name": "Alexander Barabanov (F)",
+                 "team": "SJS"
+         },
+
+         {
+                 "id": 515,
+                 "name": "Matt Benning (D)",
+                 "team": "SJS"
+         },
+
+         {
+                  "id": 516,
+                  "name": "Thomas Bordeleau (F)",
+                  "team": "SJS"
+         },
+
+         {
+                   "id": 517,
+                   "name": "Logan Couture (F)",
+                   "team": "SJS"
+         },
+
+         {
+                   "id": 518,
+                   "name": "Mario Ferraro (D)",
+                   "team": "SJS"
+         },
+
+         {
+                   "id": 519,
+                   "name": "Tomas Hertl (F)",
+                   "team": "SJS"
+         },
+
+         {
+                    "id": 520,
+                    "name": "Andreas Johnsson (F)",
+                    "team": "SJS"
+         },
+
+         {
+                    "id": 521,
+                    "name": "Kaapo Kahkonen (G)",
+                    "team": "SJS"
+         },
+
+         {
+                     "id": 522,
+                     "name": "Erik Karlsson (D)",
+                     "team": "SJS"
+         },
+
+         {
+                     "id": 523,
+                     "name": "Nikolai Knyzkov (D)",
+                     "team": "SJS"
+         },
+
+         {
+                      "id": 524,
+                      "name": "Kevin Labanc (F)",
+                      "team": "SJS"
+         },
+
+         {
+                      "id": 525,
+                      "name": "Oskar Lindblom (F)",
+                      "team": "SJS"
+         },
+
+         {
+                       "id": 526,
+                       "name": "Steven Lorentz (F)",
+                       "team": "SJS"
+         },
+
+         {
+                       "id": 527,
+                       "name": "Jacob Peterson (F)",
+                       "team": "SJS"
+         },
+
+         {
+                        "id": 528,
+                        "name": "James Reimer (G)",
+                        "team": "SJS"
+         },
+
+         {
+                         "id": 529,
+                         "name": "Radim Simek (D)",
+                         "team": "SJS"
+         },
+
+         {
+                         "id": 530,
+                         "name": "Nico Sturm (D)",
+                         "team": "SJS"
+         },
+
+         {
+          "id": 531,
+          "name": "Evgeny Svechnikov (F)",
+          "team": "SJS"
+        },
+
+        {
+            "id": 532,
+            "name": "Marc-Edouard Vlasic (D)",
+            "team": "SJS"
+        },
+
+        {
+            "id": 533,
+            "name": "Fabian Zetterlund (F)",
+            "team": "SJS"
+        },
+
+        {
+            "id": 534,
+            "name": "Matty Beniers (F)",
+            "team": "SEA"
+        },
+
+        {
+            "id": 535,
+            "name": "Oliver Bjorkstrand (F)",
+            "team": "SEA"
+        },
+
+        {
+            "id": 536,
+            "name": "Will Borgen (D)",
+            "team": "SEA"
+        },
+
+        {
+             "id": 537,
+             "name": "Joey Daccord (G)",
+             "team": "SEA"
+        },
+
+        {
+             "id": 538,
+             "name": "Ryan Donato (F)",
+             "team": "SEA"
+        },
+
+        {
+             "id": 539,
+             "name": "Vince Dunn (D)",
+             "team": "SEA"
+        },
+
+        {
+              "id": 540,
+              "name": "Jordan Eberle (F)",
+              "team": "SEA"
+        },
+
+        {
+               "id": 541,
+               "name": "Cale Fleury (D)",
+               "team": "SEA"
+        },
+        {
+                "id": 542,
+                "name": "Morgan Geekie (F)",
+                "team": "SEA"
+        },
+
+        {
+                "id": 543,
+                "name": "Yanni Gourde (F)",
+                "team": "SEA"
+        },
+
+         {
+                 "id": 544,
+                 "name": "Philipp Grubauer (G)",
+                 "team": "SEA"
+         },
+
+         {
+                 "id": 545,
+                 "name": "Martin Jones (G)",
+                 "team": "SEA"
+         },
+
+         {
+                  "id": 546,
+                  "name": "Adam Larsson (D)",
+                  "team": "SEA"
+         },
+
+         {
+                   "id": 547,
+                   "name": "Jared McCann (F)",
+                   "team": "SEA"
+         },
+
+         {
+                   "id": 548,
+                   "name": "Jaycob Megna (D)",
+                   "team": "SEA"
+         },
+
+         {
+                   "id": 549,
+                   "name": "Jamie Oleksiak (D)",
+                   "team": "SEA"
+         },
+
+         {
+                    "id": 550,
+                    "name": "Justin Schultz (D)",
+                    "team": "SEA"
+         },
+
+         {
+                    "id": 551,
+                    "name": "Karel Vejmelka (G)",
+                    "team": "SEA"
+         },
+
+         {
+                     "id": 552,
+                     "name": "Jaden Schwartz (F)",
+                     "team": "SEA"
+         },
+
+         {
+                     "id": 553,
+                     "name": "Carson Soucy (D)",
+                     "team": "SEA"
+         },
+
+         {
+                      "id": 554,
+                      "name": "Daniel Sprong (F)",
+                      "team": "SEA"
+         },
+
+         {
+                      "id": 555,
+                      "name": "Brandon Tanev (F)",
+                      "team": "SEA"
+         },
+
+         {
+                       "id": 556,
+                       "name": "Eeli Tolvanen (F)",
+                       "team": "SEA"
+         },
+
+         {
+                       "id": 557,
+                       "name": "Alexander Wennberg (F)",
+                       "team": "SEA"
+         },
+
+         {
+                        "id": 558,
+                        "name": "Jordan Binnington (G)",
+                        "team": "STL"
+         },
+
+         {
+                         "id": 559,
+                         "name": "Sammy Blais (F)",
+                         "team": "STL"
+         },
+
+         {
+                         "id": 560,
+                         "name": "Robert Bortuzzo (D)",
+                         "team": "STL"
+         },
+
+         {
+          "id": 561,
+          "name": "Logan Brown (D)",
+          "team": "STL"
+        },
+
+        {
+            "id": 562,
+            "name": "Pavel Buchnevich (F)",
+            "team": "STL"
+        },
+
+        {
+            "id": 563,
+            "name": "Justin Faulk (D)",
+            "team": "STL"
+        },
+
+        {
+            "id": 564,
+            "name": "Thomas Greiss (G)",
+            "team": "STL"
+        },
+
+        {
+            "id": 565,
+            "name": "Kasperi Kapanen (F)",
+            "team": "STL"
+        },
+
+        {
+            "id": 566,
+            "name": "Torey Krug (D)",
+            "team": "STL"
+        },
+
+        {
+             "id": 567,
+             "name": "Nick Leddy (D)",
+             "team": "STL"
+        },
+
+        {
+             "id": 568,
+             "name": "TJordan Kyrou (F)",
+             "team": "STL"
+        },
+
+        {
+             "id": 569,
+             "name": "Colton Parayko (D)",
+             "team": "BOS"
+        },
+
+        {
+              "id": 570,
+              "name": "Josh Levio (F)",
+              "team": "STL"
+        },
+
+        {
+               "id": 571,
+               "name": "Calle Rosen (D)",
+               "team": "STL"
+        },
+        {
+                "id": 572,
+                "name": "Tyler Pitlick (F)",
+                "team": "STL"
+        },
+
+        {
+                "id": 573,
+                "name": "Brandon Saad (F)",
+                "team": "STL"
+        },
+
+         {
+                 "id": 574,
+                 "name": "Macro Scandella (D)",
+                 "team": "STL"
+         },
+
+         {
+                 "id": 575,
+                 "name": "Brayden Schenn (F)",
+                 "team": "STL"
+         },
+
+         {
+                  "id": 576,
+                  "name": "Robert Thomas (F)",
+                  "team": "STL"
+         },
+
+         {
+                   "id": 577,
+                   "name": "Alexey Toropchenko (F)",
+                   "team": "STL"
+         },
+
+         {
+                   "id": 578,
+                   "name": "Jakub Vrana (F)",
+                   "team": "STL"
+         },
+
+         {
+                   "id": 579,
+                   "name": "Nathan Walker (F)",
+                   "team": "STL"
+         },
+
+         {
+                    "id": 580,
+                    "name": "Pierre-Edouard Bellemare (F)",
+                    "team": "TBL"
+         },
+
+         {
+                    "id": 581,
+                    "name": "Zach Bogosian (D)",
+                    "team": "TBL"
+         },
+
+         {
+                     "id": 582,
+                     "name": "Erik Cernak (D)",
+                     "team": "TBL"
+         },
+
+         {
+                     "id": 583,
+                     "name": "Anthony Cirelli  (F)",
+                     "team": "TBL"
+         },
+
+         {
+                      "id": 584,
+                      "name": "Ian Cole (D)",
+                      "team": "TBL"
+         },
+
+         {
+                      "id": 585,
+                      "name": "Ross Colton (F)",
+                      "team": "TBL"
+         },
+
+         {
+                       "id": 586,
+                       "name": "Brian Elliott (G)",
+                       "team": "TBL"
+         },
+
+         {
+                       "id": 587,
+                       "name": "Mikey Eyssimont (F)",
+                       "team": "TBL"
+         },
+
+         {
+                        "id": 588,
+                        "name": "Hayden Fleury (D)",
+                        "team": "TBL"
+         },
+
+         {
+                         "id": 589,
+                         "name": "Brandon Hagel (F)",
+                         "team": "TBL"
+         },
+
+         {
+                         "id": 590,
+                         "name": "Victor Hedman (D)",
+                         "team": "TBL"
+         },
+
+         {
+          "id": 591,
+          "name": "Tanner Jeannot (F)",
+          "team": "TBL"
+        },
+
+        {
+            "id": 592,
+            "name": "Alex Killorn (F)",
+            "team": "TBL"
+        },
+
+        {
+            "id": 593,
+            "name": "Nikita Kucherov (F)",
+            "team": "TBL"
+        },
+
+        {
+            "id": 594,
+            "name": "Pat Maroon (F)",
+            "team": "TBL"
+        },
+
+        {
+            "id": 595,
+            "name": "Nick Paul (F)",
+            "team": "TBL"
+        },
+
+        {
+            "id": 596,
+            "name": "Nick Perbix (D)",
+            "team": "TBL"
+        },
+
+        {
+             "id": 597,
+             "name": "Corey Perry (F)",
+             "team": "TBL"
+        },
+
+        {
+             "id": 598,
+             "name": "Brayden Point (F)",
+             "team": "TBL"
+        },
+
+        {
+             "id": 599,
+             "name": "Darren Raddysh (D)",
+             "team": "TBL"
+        },
+
+        {
+              "id": 600,
+              "name": "Mikhail Sergachev (D)",
+              "team": "TBL"
+        },
+
+
+           {
+            "id": 601,
+            "name": "Steven Stamkos (F)",
+            "team": "TBL"
+          },
+
+          {
+              "id": 602,
+              "name": "Andrei Vasilevskiy (G)",
+              "team": "TBL"
+          },
+
+          {
+              "id": 603,
+              "name": "Noel Acciari (F)",
+              "team": "TOR"
+          },
+
+          {
+              "id": 604,
+              "name": "Zach Aston-Reese (F)",
+              "team": "TOR"
+          },
+
+          {
+              "id": 605,
+              "name": "T.J. Brodie (D)",
+              "team": "TOR"
+          },
+
+          {
+              "id": 606,
+              "name": "Michael Bunting (F)",
+              "team": "TOR"
+          },
+
+          {
+               "id": 607,
+               "name": "Mark Giordano (D)",
+               "team": "TOR"
+          },
+
+          {
+               "id": 608,
+               "name": "Erik Gustafsson (D)",
+               "team": "TOR"
+          },
+
+          {
+               "id": 609,
+               "name": "Justin Holl (D)",
+               "team": "TOR"
+          },
+
+          {
+                "id": 610,
+                "name": "Calle Jarnkrok (F)",
+                "team": "TOR"
+          },
+
+          {
+                 "id": 611,
+                 "name": "David Kampf (F)",
+                 "team": "TOR"
+          },
+          {
+                  "id": 612,
+                  "name": "Alexander Kerfoot (F)",
+                  "team": "TOR"
+          },
+
+          {
+                  "id": 613,
+                  "name": "Sam Lafferty  (F)",
+                  "team": "TOR"
+          },
+
+           {
+                   "id": 614,
+                   "name": "Timothy Lijegren (D)",
+                   "team": "TOR"
+           },
+
+           {
+                   "id": 615,
+                   "name": "Mitch Marner (F)",
+                   "team": "TOR"
+           },
+
+           {
+                    "id": 616,
+                    "name": "Auston Matthews (F)",
+                    "team": "TOR"
+           },
+
+           {
+                     "id": 617,
+                     "name": "Jake McCabe (D)",
+                     "team": "TOR"
+           },
+
+           {
+                     "id": 618,
+                     "name": "Bobby McMann (F)",
+                     "team": "TOR"
+           },
+
+           {
+                     "id": 619,
+                     "name": "Matt Murray (G)",
+                     "team": "TOR"
+           },
+
+           {
+                      "id": 620,
+                      "name": "William Nylander (F)",
+                      "team": "TOR"
+           },
+
+           {
+                      "id": 621,
+                      "name": "Ryan O'Reilly (F)",
+                      "team": "TOR"
+           },
+
+           {
+                       "id": 622,
+                       "name": "Morgan Rielly (D)",
+                       "team": "TOR"
+           },
+
+           {
+                       "id": 623,
+                       "name": "Ilya Samsonov (G)",
+                       "team": "TOR"
+           },
+
+           {
+                        "id": 624,
+                        "name": "Luke Schenn (D)",
+                        "team": "TOR"
+           },
+
+           {
+                        "id": 625,
+                        "name": "John Tavares (F)",
+                        "team": "TOR"
+           },
+
+           {
+                         "id": 626,
+                         "name": "Joseph Woll (G)",
+                         "team": "TOR"
+           },
+
+           {
+                         "id": 627,
+                         "name": "Nils Aman (F)",
+                         "team": "VAN"
+           },
+
+           {
+                          "id": 628,
+                          "name": "Ethan Bear (D)",
+                          "team": "VAN"
+           },
+
+           {
+                           "id": 629,
+                           "name": "Anthony Beauviller (F)",
+                           "team": "VAN"
+           },
+
+           {
+                           "id": 630,
+                           "name": "Brock Boeser",
+                           "team": "VAN"
+           },
+
+           {
+            "id": 631,
+            "name": "Kyle Burroughs (D)",
+            "team": "VAN"
+          },
+
+          {
+              "id": 632,
+              "name": "Collin Delia (G)",
+              "team": "VAN"
+          },
+
+          {
+              "id": 633,
+              "name": "Thatcher Demko (G)",
+              "team": "VAN"
+          },
+
+          {
+              "id": 634,
+              "name": "Phillip Di Giuseppe (G)",
+              "team": "VAN"
+          },
+
+          {
+              "id": 635,
+              "name": "Sheldon Dries (F)",
+              "team": "VAN"
+          },
+
+          {
+              "id": 636,
+              "name": "Conor Garland (F)",
+              "team": "VAN"
+          },
+
+          {
+               "id": 637,
+               "name": "Filip Hronek (D)",
+               "team": "VAN"
+          },
+
+          {
+               "id": 638,
+               "name": "Quinn Hughes (D)",
+               "team": "VAN"
+          },
+
+          {
+               "id": 639,
+               "name": "Dakota Joshua (F)",
+               "team": "VAN"
+          },
+
+          {
+                "id": 640,
+                "name": "Noah Juulsen (D)",
+                "team": "VAN"
+          },
+
+          {
+                 "id": 641,
+                 "name": "Vitali Kravtsov (F)",
+                 "team": "VAN"
+          },
+          {
+                  "id": 642,
+                  "name": "Andrei Kuzmenko (F)",
+                  "team": "VAN"
+          },
+
+          {
+                  "id": 643,
+                  "name": "J.T. Miller (F)",
+                  "team": "VAN"
+          },
+
+           {
+                   "id": 644,
+                   "name": "Tyler Myers (D)",
+                   "team": "VAN"
+           },
+
+           {
+                   "id": 645,
+                   "name": "Vasily Podkolzin (F)",
+                   "team": "VAN"
+           },
+
+           {
+                    "id": 646,
+                    "name": "Jack Studnicka (F)",
+                    "team": "VAN"
+           },
+
+           {
+                     "id": 647,
+                     "name": "Christian Wolanin (D)",
+                     "team": "VAN"
+           },
+
+           {
+                     "id": 648,
+                     "name": "Michael Amadio (F)",
+                     "team": "VGK"
+           },
+
+           {
+                     "id": 649,
+                     "name": "Ivan Barbashev (F)",
+                     "team": "VGK"
+           },
+
+           {
+                      "id": 650,
+                      "name": "Teddy Blueger (F)",
+                      "team": "VGK"
+           },
+
+           {
+                      "id": 651,
+                      "name": "Laurent Brossoit (G)",
+                      "team": "VGK"
+           },
+
+           {
+                       "id": 652,
+                       "name": "William Carrier (F)",
+                       "team": "VGK"
+           },
+
+           {
+                       "id": 653,
+                       "name": "Paul Cotter (F)",
+                       "team": "VGK"
+           },
+
+           {
+                        "id": 654,
+                        "name": "Jack Eichel  (F)",
+                        "team": "VGK"
+           },
+
+           {
+                        "id": 655,
+                        "name": "Nicolas Hague (F)",
+                        "team": "VGK"
+           },
+
+           {
+                         "id": 656,
+                         "name": "Adin Hill (G)",
+                         "team": "VGK"
+           },
+
+           {
+                         "id": 657,
+                         "name": "Brett Howden (F)",
+                         "team": "VGK"
+           },
+
+           {
+                          "id": 658,
+                          "name": "Ben Hutton (D)",
+                          "team": "VGK"
+           },
+
+           {
+                           "id": 659,
+                           "name": "William Karlsson (F)",
+                           "team": "VGK"
+           },
+
+           {
+                           "id": 660,
+                           "name": "Phil Kessel (F)",
+                           "team": "VGK"
+           },
+
+           {
+            "id": 661,
+            "name": "Keegan Kolesar (F)",
+            "team": "VGK"
+          },
+
+          {
+              "id": 662,
+              "name": "Jonathan Marchessault (F)",
+              "team": "VGK"
+          },
+
+          {
+              "id": 663,
+              "name": "Alec Martinez (D)",
+              "team": "VGK"
+          },
+
+          {
+              "id": 664,
+              "name": "Brayden McNabb (D)",
+              "team": "VGK"
+          },
+
+          {
+              "id": 665,
+              "name": "Alex Pietrangelo (D)",
+              "team": "VGK"
+          },
+
+          {
+              "id": 666,
+              "name": "Jonathan Quick (G)",
+              "team": "VGK"
+          },
+
+          {
+               "id": 667,
+               "name": "Nicolas Roy (F)",
+               "team": "VGK"
+          },
+
+          {
+               "id": 668,
+               "name": "Reilly Smith (F)",
+               "team": "VGK"
+          },
+
+          {
+               "id": 669,
+               "name": "Chandler Stephenson (F)",
+               "team": "VGK"
+          },
+
+          {
+                "id": 670,
+                "name": "Shea Theodore (D)",
+                "team": "VGK"
+          },
+
+          {
+                 "id": 671,
+                 "name": "Logan Thompson (G)",
+                 "team": "VGK"
+          },
+          {
+                  "id": 672,
+                  "name": "Zach Whitecloud (D)",
+                  "team": "VGK"
+          },
+
+          {
+                  "id": 673,
+                  "name": "Alexander Alexeyev (D)",
+                  "team": "WSH"
+          },
+
+           {
+                   "id": 674,
+                   "name": "Nicolas Aube-Kubel (F)",
+                   "team": "WSH"
+           },
+
+           {
+                   "id": 675,
+                   "name": "Nicklas Backstrom (F)",
+                   "team": "WSH"
+           },
+
+           {
+                    "id": 676,
+                    "name": "John Carlson (D)",
+                    "team": "WSH"
+           },
+
+           {
+                     "id": 677,
+                     "name": "Nic Dowd (F)",
+                     "team": "WSH"
+           },
+
+           {
+                     "id": 678,
+                     "name": "Martin Fehervary (D)",
+                     "team": "WSH"
+           },
+
+           {
+                     "id": 679,
+                     "name": "Matt Irwin (D)",
+                     "team": "WSH"
+           },
+
+           {
+                      "id": 680,
+                      "name": "Nick Jensen (D)",
+                      "team": "WSH"
+           },
+
+           {
+                      "id": 681,
+                      "name": "Darcy Kuemper (D)",
+                      "team": "WSH"
+           },
+
+           {
+                       "id": 682,
+                       "name": "Evgeny Kuznetsov (F)",
+                       "team": "WSH"
+           },
+
+           {
+                       "id": 683,
+                       "name": "Charlie Lindgren  (G)",
+                       "team": "WSH"
+           },
+
+           {
+                        "id": 684,
+                        "name": "Anthony Mantha (F)",
+                        "team": "WSH"
+           },
+
+           {
+                        "id": 685,
+                        "name": "Sonny Milano (F)",
+                        "team": "WSH"
+           },
+
+           {
+                         "id": 686,
+                         "name": "T.J. Oshie (F)",
+                         "team": "WSH"
+           },
+
+           {
+                         "id": 687,
+                         "name": "Alex Ovechkin (F)",
+                         "team": "WSH"
+           },
+
+           {
+                          "id": 688,
+                          "name": "Aliaksei Protas (F)",
+                          "team": "WSH"
+           },
+
+           {
+                           "id": 689,
+                           "name": "Rasmus Sandin (D)",
+                           "team": "WSH"
+           },
+
+           {
+                           "id": 690,
+                           "name": "Conor Sheary (F)",
+                           "team": "WSH"
+           },
+
+           {
+            "id": 691,
+            "name": "Craig Sheary (F)",
+            "team": "WSH"
+          },
+
+          {
+              "id": 692,
+              "name": "Craig Smith (F)",
+              "team": "WSH"
+          },
+
+          {
+              "id": 693,
+              "name": "Dylan Strome (F)",
+              "team": "WSH"
+          },
+
+          {
+              "id": 694,
+              "name": "Trevor van Riemsdyk (D)",
+              "team": "WSH"
+          },
+
+          {
+              "id": 695,
+              "name": "Tom Wilson (F)",
+              "team": "WSH"
+          },
+
+          {
+              "id": 696,
+              "name": "Mason Appleton (F)",
+              "team": "WPG"
+          },
+
+          {
+               "id": 697,
+               "name": "Morgan Barron (F)",
+               "team": "WPG"
+          },
+
+          {
+               "id": 698,
+               "name": "Kyle Connor (F)",
+               "team": "WPG"
+          },
+
+          {
+               "id": 699,
+               "name": "Dylan DeMelo (D)",
+               "team": "WPG"
+          },
+
+          {
+                "id": 700,
+                "name": "Brenden Dillon (D)",
+                "team": "WPG"
+          },
+
+          {
+              "id": 701,
+              "name": "Pierre-Luc Dubois (F)",
+              "team": "WPG"
+            },
+
+            {
+                "id": 702,
+                "name": "Nikolaj Ehlers (F)",
+                "team": "WPG"
+            },
+
+            {
+                "id": 703,
+                "name": "David Gustafsson (F)",
+                "team": "WPG"
+            },
+
+            {
+                "id": 704,
+                "name": "Axel Jonsson-Fjallby (F)",
+                "team": "WPG"
+            },
+
+            {
+                "id": 705,
+                "name": "Karson Kuhlman (G)",
+                "team": "WPG"
+            },
+
+            {
+                "id": 706,
+                "name": "Adam Lowry (F)",
+                "team": "WPG"
+            },
+
+            {
+                 "id": 707,
+                 "name": "Saku Maenalanen (F)",
+                 "team": "WPG"
+            },
+
+            {
+                 "id": 708,
+                 "name": "Nino Niederreiter (F)",
+                 "team": "WPG"
+            },
+
+            {
+                 "id": 709,
+                 "name": "Neal Pionk (D)",
+                 "team": "WPG"
+            },
+
+            {
+                  "id": 710,
+                  "name": "David Rittich (G)",
+                  "team": "WPG"
+            },
+
+            {
+                   "id": 711,
+                   "name": "Dylan Samberg (D)",
+                   "team": "WPG"
+            },
+            {
+                    "id": 712,
+                    "name": "Mark Scheifele (F)",
+                    "team": "WPG"
+            },
+
+            {
+                    "id": 713,
+                    "name": "Nate Schmidt (D)",
+                    "team": "WPG"
+            },
+
+             {
+                     "id": 714,
+                     "name": "Logan Stanley (D)",
+                     "team": "WPG"
+             },
+
+             {
+                     "id": 715,
+                     "name": "Kevin Stenlund (F)",
+                     "team": "WPG"
+             },
+
+             {
+                      "id": 716,
+                      "name": "Blake Wheeler (F)",
+                      "team": "WPG"
+             }
+]

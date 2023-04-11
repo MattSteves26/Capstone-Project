@@ -7,14 +7,12 @@ let users = []
 searchInput.addEventListener("input", e => {
   const value = e.target.value.toLowerCase()
   users.forEach(user => {
-    const isVisible =
-      user.name.toLowerCase().includes(value) ||
-      user.Stats.toLowerCase().includes(value)
+    const isVisible = user.name.toLowerCase().includes(value) || user.team.toLowerCase().includes(value)
     user.element.classList.toggle("hide", !isVisible)
   })
 })
 
-fetch("2023Draft.txt")
+fetch("playersearch.txt")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {
@@ -22,8 +20,8 @@ fetch("2023Draft.txt")
       const header = card.querySelector("[data-header]")
       const body = card.querySelector("[data-body]")
       header.textContent = user.name
-      body.textContent = user.Stats
+      body.textContent = user.team
       userCardContainer.append(card)
-      return { name: user.name, Stats: user.Stats, element: card }
+      return { name: user.name, team: user.team, element: card}
     })
   })
