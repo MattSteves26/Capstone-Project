@@ -29,6 +29,12 @@ analytics {
         font-size: 20pt;
         text-align: center;
     }
+    #lineup {
+    	position: absolute;
+    	top: 142px;
+    	left: 400px;
+    	text-align: center;
+    }
 
 
 </style>
@@ -48,74 +54,52 @@ analytics {
     </p>
 
 
-<table id ="table" border="1">
+<table class ="table table-sortable" border="1">
     <caption> Starting Roster </caption>
+    <thead>
     <tr><th>#</th><th>Name</th><th>G</th><th>A</th><th>P</th></tr>
+    </thead>
+    <tbody>
     <tr><td>2</td><td>Patrik Nemeth</td><td>0</td><td>5</td><td>5</td></tr>
     <tr><td>3</td><td>Josh Brown</td><td>4</td><td>3</td><td>7</td></tr>
-    <tr><td>4</td><td>Juuso Valimaki</td><td>4</td><td>29</td><td>33</td></tr>
+    <tr><td>4</td><td>Juuso Valimaki</td><td>4</td><td>30</td><td>34</td></tr>
     <tr><td>8</td><td>Nick Schmaltz</td><td>21</td><td>33</td><td>54</td></tr>
-    <tr><td>9</td><td>Clayton Keller</td><td>36</td><td>46</td><td>82</td></tr>
+    <tr><td>9</td><td>Clayton Keller</td><td>37</td><td>49</td><td>86</td></tr>
     <tr><td>21</td><td>Milos Kelemen</td><td>1</td><td>0</td><td>1</td></tr>
-    <tr><td>22</td><td>Jack McBain</td><td>11</td><td>12</td><td>23</td></tr>
-    <tr><td>26</td><td>Laurent Dauphin</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>29</td><td>Barrett Hayton</td><td>17</td><td>24</td><td>41</td></tr>
-    <tr><td>36</td><td>Christian Fischer</td><td>12</td><td>14</td><td>26</td></tr>
-    <tr><td>38</td><td>Liam O'Brien</td><td>1</td><td>7</td><td>8</td></tr>
+    <tr><td>22</td><td>Jack McBain</td><td>12</td><td>14</td><td>26</td></tr>
+    <tr><td>26</td><td>Laurent Dauphin</td><td>1</td><td>0</td><td>1</td></tr>
+    <tr><td>29</td><td>Barrett Hayton</td><td>19</td><td>24</td><td>43</td></tr>
+    <tr><td>36</td><td>Christian Fischer</td><td>13</td><td>14</td><td>27</td></tr>
+    <tr><td>38</td><td>Liam O'Brien</td><td>3</td><td>8</td><td>11</td></tr>
     <tr><td>44</td><td>Zack Kassian</td><td>2</td><td>0</td><td>2</td></tr>
     <tr><td>51</td><td>Troy Stecher</td><td>0</td><td>6</td><td>6</td></tr>
-    <tr><td>63</td><td>Matias Maccelli</td><td>10</td><td>35</td><td>45</td></tr>
+    <tr><td>63</td><td>Matias Maccelli</td><td>11</td><td>38</td><td>49</td></tr>
     <tr><td>67</td><td>Lawson Crouse</td><td>23</td><td>20</td><td>43</td></tr>
-    <tr><td>72</td><td>Travis Boyd</td><td>14</td><td>18</td><td>32</td></tr>
+    <tr><td>72</td><td>Travis Boyd</td><td>15</td><td>19</td><td>34</td></tr>
     <tr><td>77</td><td>Victor Soderstrom</td><td>0</td><td>7</td><td>7</td></tr>
-    <tr><td>90</td><td>Janis Moser</td><td>7</td><td>22</td><td>29</td></tr>
+    <tr><td>90</td><td>Janis Moser</td><td>7</td><td>24</td><td>31</td></tr>
+    </tbody>
 </table>
 
-<span id="goalLeader"></span><br>
-<span id="assistLeader"></span><br>
-<span id="pointLeader"></span><br>
-
-<script>
-		  var table = document.getElementById("table");
-
-            for(var i = 1; i < table.rows.length; i++)
-            {
-                // if its the first row get th value
-                if(i === 1){
-                    goalLead = table.rows[i].cells[2].innerHTML;
-                    assistLead = table.rows[i].cells[3].innerHTML;
-                    pointLead = table.rows[i].cells[4].innerHTML;
-
-                }
-              // test the values
-              if(+goalLead < +table.rows[i].cells[2].innerHTML)
-                {
-                    goalLead = table.rows[i].cells[2].innerHTML;
-                    goalLeader = table.rows[i].cells[1].innerHTML;
-                }
-
-              if(+assistLead < +table.rows[i].cells[3].innerHTML)
-                {
-                    assistLead = table.rows[i].cells[3].innerHTML;
-                    assistLeader = table.rows[i].cells[1].innerHTML;
-                }
-
-              if(+pointLead < +table.rows[i].cells[4].innerHTML)
-                {
-                    console.log("Updated");
-                    console.log(table.rows[i].cells[1].innerHTML);
-                    pointLead = table.rows[i].cells[4].innerHTML;
-                    pointLeader = table.rows[i].cells[1].innerHTML;
-                }
-            }
-            // display the max val
-            document.getElementById("goalLeader").innerHTML = "Goal Leader: "+goalLeader+" : "+goalLead;
-            document.getElementById("assistLeader").innerHTML = "Assist Leader: "+assistLeader+" : "+assistLead;
-            document.getElementById("pointLeader").innerHTML = "Points Leader: "+pointLeader+" : "+pointLead;
+<script src ="tablesort.js"></script>
 
 
-</script>
 
+<div id = "lineup">
+    <table >
+        <caption>Starting Lineup</caption>
+        <tr><th>LW</th><th>C</th><th>RW</th></tr>
+        <tr><td>Clayton Keller</td><td>Travis Boyd</td><td>Nick Schmaltz</td></tr>
+        <tr><td>Matias Maccelli</td><td>Barrett Hayton</td><td>Lawson Crouse</td></tr>
+        <tr><td>Liam O'Brien</td><td>Jack McBain</td><td>Christian Fischer</td></tr>
+        <tr><td>Milos Kelemen</td><td>Laurent Dauphin</td><td>Brett Ritchie</td></tr>
+        <tr><th>LD</th><th>RD</th></tr>
+        <tr><td>Connor Mackey</td><td>Juuso Valimaki</td></tr>
+        <tr><td>Patrik Nemeth</td><td>J.J Moser</td></tr>
+        <tr><td>Victor Soderstrom</td><td>Josh Brown</td></tr>
+
+    </table>
+</div>
 
 <table>
     <caption>Goaltenders</caption>

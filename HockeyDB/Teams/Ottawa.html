@@ -28,6 +28,12 @@ analytics {
         font-size: 20pt;
         text-align: center;
     }
+    #lineup {
+    	position: absolute;
+    	top: 142px;
+    	left: 400px;
+    	text-align: center;
+    }
 
 
 </style>
@@ -47,78 +53,54 @@ analytics {
     </p>
 
 
-<table id = "table">
+<table class ="table table-sortable" border="1">
     <caption> Starting Roster </caption>
+    <thead>
     <tr><th>#</th><th>Name</th><th>G</th><th>A</th><th>P</th></tr>
-    <tr><td>2</td><td>Artem Zub</td><td>3</td><td>6</td><td>9</td></tr>
-    <tr><td>5</td><td>Nick Holden</td><td>2</td><td>13</td><td>15</td></tr>
+    </thead>
+    <tbody>
+    <tr><td>2</td><td>Artem Zub</td><td>3</td><td>7</td><td>10</td></tr>
+    <tr><td>5</td><td>Nick Holden</td><td>2</td><td>14</td><td>16</td></tr>
     <tr><td>6</td><td>Jakob Chychrun</td><td>2</td><td>3</td><td>5</td></tr>
-    <tr><td>7</td><td>Brady Tkachuk</td><td>34</td><td>33</td><td>77</td></tr>
-    <tr><td>12</td><td>Alex DeBrincat</td><td>24</td><td>36</td><td>60</td></tr>
-    <tr><td>16</td><td>Austin Watson</td><td>8</td><td>2</td><td>10</td></tr>
+    <tr><td>7</td><td>Brady Tkachuk</td><td>35</td><td>48</td><td>83</td></tr>
+    <tr><td>12</td><td>Alex DeBrincat</td><td>27</td><td>39</td><td>66</td></tr>
+    <tr><td>16</td><td>Austin Watson</td><td>9</td><td>2</td><td>11</td></tr>
     <tr><td>17</td><td>Ridly Greig</td><td>1</td><td>5</td><td>6</td></tr>
-    <tr><td>18</td><td>Tim Stutzle</td><td>36</td><td>46</td><td>82</td></tr>
-    <tr><td>19</td><td>Drake Batherson</td><td>21</td><td>37</td><td>58</td></tr>
-    <tr><td>21</td><td>Mathieu Joseph</td><td>3</td><td>14</td><td>17</td></tr>
+    <tr><td>18</td><td>Tim Stutzle</td><td>39</td><td>51</td><td>90</td></tr>
+    <tr><td>19</td><td>Drake Batherson</td><td>22</td><td>40</td><td>62</td></tr>
+    <tr><td>21</td><td>Mathieu Joseph</td><td>3</td><td>15</td><td>18</td></tr>
     <tr><td>23</td><td>Travis Hamonic</td><td>6</td><td>15</td><td>21</td></tr>
-    <tr><td>26</td><td>Erik Brannstrom</td><td>2</td><td>12</td><td>14</td></tr>
-    <tr><td>27</td><td>Dylan Gambrell</td><td>2</td><td>5</td><td>7</td></tr>
-    <tr><td>28</td><td>Claude Giroux</td><td>28</td><td>43</td><td>71</td></tr>
-    <tr><td>48</td><td>Patrick Brown</td><td>1</td><td>2</td><td>3</td></tr>
-    <tr><td>43</td><td>Tyler Kleven</td><td>0</td><td>0</td><td>0</td></tr>
-    <tr><td>47</td><td>Mark Kastelic</td><td>5</td><td>3</td><td>8</td></tr>
-    <tr><td>57</td><td>Shane Pinto</td><td>19</td><td>13</td><td>32</td></tr>
+    <tr><td>26</td><td>Erik Brannstrom</td><td>2</td><td>16</td><td>18</td></tr>
+    <tr><td>27</td><td>Dylan Gambrell</td><td>4</td><td>6</td><td>10</td></tr>
+    <tr><td>28</td><td>Claude Giroux</td><td>35</td><td>44</td><td>79</td></tr>
+    <tr><td>48</td><td>Patrick Brown</td><td>2</td><td>3</td><td>5</td></tr>
+    <tr><td>43</td><td>Tyler Kleven</td><td>0</td><td>2</td><td>2</td></tr>
+    <tr><td>47</td><td>Mark Kastelic</td><td>7</td><td>4</td><td>11</td></tr>
+    <tr><td>57</td><td>Shane Pinto</td><td>20</td><td>15</td><td>35</td></tr>
     <tr><td>61</td><td>Derick Brassard</td><td>13</td><td>10</td><td>23</td></tr>
     <tr><td>72</td><td>Thomas Chabot</td><td>11</td><td>30</td><td>41</td></tr>
-    <tr><td>77</td><td>Julien Gauthier</td><td>2</td><td>2</td><td>4</td></tr>
-    <tr><td>85</td><td>Jake Sanderson</td><td>4</td><td>25</td><td>29</td></tr>
+    <tr><td>77</td><td>Julien Gauthier</td><td>3</td><td>2</td><td>5</td></tr>
+    <tr><td>85</td><td>Jake Sanderson</td><td>4</td><td>28</td><td>32</td></tr>
+    </tbody>
 </table>
 
-<span id="goalLeader"></span><br>
-<span id="assistLeader"></span><br>
-<span id="pointLeader"></span><br>
+<script src ="tablesort.js"></script>
 
-<script>
-		  var table = document.getElementById("table");
+<div id = "lineup">
+    <table >
+        <caption>Starting Lineup</caption>
+        <tr><th>LW</th><th>C</th><th>RW</th></tr>
+        <tr><td>Brady Tkachuk</td><td>Tim Stutzle</td><td>Claude Giroux</td></tr>
+        <tr><td>Alex Debrincat</td><td>Shane Pinto</td><td>Drake Baherson</td></tr>
+        <tr><td>Mathieu Joseph</td><td>Mark Kastelic</td><td>Patrick Brown</td></tr>
+        <tr><td>Egor Sokolov</td><td>Dylan Gambrell</td><td>Julien Gauthier</td></tr>
+        <tr><th>LD</th><th>RD</th></tr>
+        <tr><td>Jake Sanderson</td><td>Artem Zub</td></tr>
+        <tr><td>Erik Brannstrom</td><td>Nick Holden</td></tr>
+        <tr><td>Tyler Kleven</td><td>Maxence Guenette</td></tr>
 
-            for(var i = 1; i < table.rows.length; i++)
-            {
-                // if its the first row get th value
-                if(i === 1){
-                    goalLead = table.rows[i].cells[2].innerHTML;
-                    assistLead = table.rows[i].cells[3].innerHTML;
-                    pointLead = table.rows[i].cells[4].innerHTML;
-
-                }
-              // test the values
-              if(+goalLead < +table.rows[i].cells[2].innerHTML)
-                {
-                    goalLead = table.rows[i].cells[2].innerHTML;
-                    goalLeader = table.rows[i].cells[1].innerHTML;
-                }
-
-              if(+assistLead < +table.rows[i].cells[3].innerHTML)
-                {
-                    assistLead = table.rows[i].cells[3].innerHTML;
-                    assistLeader = table.rows[i].cells[1].innerHTML;
-                }
-
-              if(+pointLead < +table.rows[i].cells[4].innerHTML)
-                {
-                    console.log("Updated");
-                    console.log(table.rows[i].cells[1].innerHTML);
-                    pointLead = table.rows[i].cells[4].innerHTML;
-                    pointLeader = table.rows[i].cells[1].innerHTML;
-                }
-            }
-            // display the max val
-            document.getElementById("goalLeader").innerHTML = "Goal Leader: "+goalLeader+" : "+goalLead;
-            document.getElementById("assistLeader").innerHTML = "Assist Leader: "+assistLeader+" : "+assistLead;
-            document.getElementById("pointLeader").innerHTML = "Points Leader: "+pointLeader+" : "+pointLead;
-
-
-</script>
-
+    </table>
+</div>
 <table>
     <caption>Goaltenders</caption>
     <tr><th>#</th><th>Name</th><th>Record</th><th>GAA</th><th>SV%</th></tr>

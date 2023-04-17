@@ -28,6 +28,12 @@ analytics {
         font-size: 20pt;
         text-align: center;
     }
+    #lineup {
+    	position: absolute;
+    	top: 142px;
+    	left: 400px;
+    	text-align: center;
+    }
 
 
 </style>
@@ -48,77 +54,53 @@ analytics {
 
 
 
-<table id = "table">
+<table class ="table table-sortable" border="1">
     <caption> Starting Roster </caption>
+    <thead>
     <tr><th>#</th><th>Name</th><th>G</th><th>A</th><th>P</th></tr>
+    </thead>
+    <tbody>
     <tr><td>7</td><td>Hayden Fleury</td><td>0</td><td>1</td><td>1</td></tr>
     <tr><td>10</td><td>Corey Perry</td><td>12</td><td>13</td><td>25</td></tr>
     <tr><td>14</td><td>Pat Maroon</td><td>5</td><td>9</td><td>14</td></tr>
-    <tr><td>17</td><td>Alex Killorn</td>24<td></td><td>35</td><td>59</td></tr>
+    <tr><td>17</td><td>Alex Killorn</td>27<td></td><td>37</td><td>64</td></tr>
     <tr><td>20</td><td>Nick Paul</td><td>17</td><td>15</td><td>32</td></tr>
-    <tr><td>21</td><td>Brayden Point</td><td>48</td><td>41</td><td>89</td></tr>
-    <tr><td>23</td><td>Mikey Eyssimont</td><td>0</td><td>0</td><td>0</td></tr>
+    <tr><td>21</td><td>Brayden Point</td><td>51</td><td>44</td><td>90</td></tr>
+    <tr><td>23</td><td>Mikey Eyssimont</td><td>1</td><td>1</td><td>0</td></tr>
     <tr><td>24</td><td>Zack Bogosian</td><td>1</td><td>4</td><td>5</td></tr>
     <tr><td>28</td><td>Ian Cole</td><td>3</td><td>14</td><td>17</td></tr>
-    <tr><td>38</td><td>Brandon Hagel</td><td>27</td><td>32</td><td>59</td></tr>
+    <tr><td>38</td><td>Brandon Hagel</td><td>30</td><td>34</td><td>64</td></tr>
     <tr><td>41</td><td>Pierre-Edouard Bellemare</td><td>4</td><td>9</td><td>13</td></tr>
-    <tr><td>43</td><td>Darren Raddysh</td><td>0</td><td>2</td><td>2</td></tr>
-    <tr><td>48</td><td>Nick Perbix</td><td>4</td><td>15</td><td>19</td></tr>
-    <tr><td>71</td><td>Anthony Cirelli</td><td>11</td><td>16</td><td>27</td></tr>
-    <tr><td>77</td><td>Victor Hedman</td><td>8</td><td>37</td><td>45</td></tr>
-    <tr><td>79</td><td>Ross Colton</td><td>16</td><td>33</td><td>44</td></tr>
+    <tr><td>43</td><td>Darren Raddysh</td><td>1</td><td>2</td><td>3</td></tr>
+    <tr><td>48</td><td>Nick Perbix</td><td>5</td><td>15</td><td>20</td></tr>
+    <tr><td>71</td><td>Anthony Cirelli</td><td>11</td><td>18</td><td>29</td></tr>
+    <tr><td>77</td><td>Victor Hedman</td><td>9</td><td>40</td><td>49</td></tr>
+    <tr><td>79</td><td>Ross Colton</td><td>16</td><td>16</td><td>32</td></tr>
     <tr><td>81</td><td>Erik Cernak</td><td>2</td><td>14</td><td>16</td></tr>
     <tr><td>84</td><td>Tanner Jeannot</td><td>1</td><td>3</td><td>4</td></tr>
-    <tr><td>86</td><td>Nikita Kucherov</td><td>29</td><td>77</td><td>106</td></tr>
-    <tr><td>91</td><td>Steven Stamkos</td><td>33</td><td>47</td><td>80</td></tr>
-    <tr><td>98</td><td>Mikhail Sergachev</td><td>9</td><td>50</td><td>59</td></tr>
+    <tr><td>86</td><td>Nikita Kucherov</td><td>30</td><td>83</td><td>113</td></tr>
+    <tr><td>91</td><td>Steven Stamkos</td><td>34</td><td>50</td><td>84</td></tr>
+    <tr><td>98</td><td>Mikhail Sergachev</td><td>10</td><td>54</td><td>64</td></tr>
+    </tbody>
 </table>
 
-<span id="goalLeader"></span><br>
-<span id="assistLeader"></span><br>
-<span id="pointLeader"></span><br>
+<script src ="tablesort.js"></script>
 
-<script>
-		  var table = document.getElementById("table");
+<div id = "lineup">
+    <table >
+        <caption>Starting Lineup</caption>
+        <tr><th>LW</th><th>C</th><th>RW</th></tr>
+        <tr><td>Steven Stamkos</td><td>Brayden Point</td><td>Nikita Kucherov</td></tr>
+        <tr><td>Ross Colton</td><td>Anthony Cirelli</td><td>Alex Killorn</td></tr>
+        <tr><td>Brandon Hagel</td><td>Nick Paul</td><td>Michael Eyssimont</td></tr>
+        <tr><td>Patrick</td><td>Pierre-Edouard Bellemare</td><td>Corey Perry</td></tr>
+        <tr><th>LD</th><th>RD</th></tr>
+        <tr><td>Mikhail Sergachev</td><td>Darren Raddysh</td></tr>
+        <tr><td>Ian Cole</td><td>Nicklaus Perbix</td></tr>
+        <tr><td>Hayden Fleury</td><td>Zach Bogosian</td></tr>
 
-            for(var i = 1; i < table.rows.length; i++)
-            {
-                // if its the first row get th value
-                if(i === 1){
-                    goalLead = table.rows[i].cells[2].innerHTML;
-                    assistLead = table.rows[i].cells[3].innerHTML;
-                    pointLead = table.rows[i].cells[4].innerHTML;
-
-                }
-              // test the values
-              if(+goalLead < +table.rows[i].cells[2].innerHTML)
-                {
-                    goalLead = table.rows[i].cells[2].innerHTML;
-                    goalLeader = table.rows[i].cells[1].innerHTML;
-                }
-
-              if(+assistLead < +table.rows[i].cells[3].innerHTML)
-                {
-                    assistLead = table.rows[i].cells[3].innerHTML;
-                    assistLeader = table.rows[i].cells[1].innerHTML;
-                }
-
-              if(+pointLead < +table.rows[i].cells[4].innerHTML)
-                {
-                    console.log("Updated");
-                    console.log(table.rows[i].cells[1].innerHTML);
-                    pointLead = table.rows[i].cells[4].innerHTML;
-                    pointLeader = table.rows[i].cells[1].innerHTML;
-                }
-            }
-            // display the max val
-            document.getElementById("goalLeader").innerHTML = "Goal Leader: "+goalLeader+" : "+goalLead;
-            document.getElementById("assistLeader").innerHTML = "Assist Leader: "+assistLeader+" : "+assistLead;
-            document.getElementById("pointLeader").innerHTML = "Points Leader: "+pointLeader+" : "+pointLead;
-
-
-</script>
-
+    </table>
+</div>
 <table>
     <caption>Goaltenders</caption>
     <tr><th>#</th><th>Name</th><th>Record</th><th>GAA</th><th>SV%</th></tr>
