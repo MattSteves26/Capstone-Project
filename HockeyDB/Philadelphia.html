@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Matthew Steves">
+    <title>Philadelphia Flyers</title>
+    <style>
+table, th, td {border: thin solid;}
+analytics {
+        position: absolute;
+        top: 142px;
+        width: 250px; height: 280px;
+        text-align: center;
+        font-size: 12pt;
+        left: 330px;
+
+    }
+#content {
+        position: relative;
+    }
+    #content img {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+    #center {
+        background-color: orange;
+        font-size: 20pt;
+        text-align: center;
+    }
+    #lineup {
+    	position: absolute;
+    	top: 142px;
+    	left: 700px;
+    	text-align: center;
+    }
+
+
+</style>
+</head>
+<body>
+<div id="center">
+    Philadelphia Flyers
+</div>
+
+<div id="content"> <img id="Flyers Logo" src="Flyers.gif" alt="Flyers"> </div>
+
+    <p>
+        Team Record: 31-38-13 <br>
+        Point Percentage: .457% <br>
+        Corsi Relative: 47.37% <br>
+        PDO: .995 <br>
+    </p>
+
+
+
+<table class ="table table-sortable" border="1">
+    <caption> Starting Roster </caption>
+    <thead>
+    <tr><th>#</th><th>Name</th><th>G</th><th>A</th><th>P</th></tr>
+    </thead>
+    <tbody>
+    <tr><td>6</td><td>Travis Sanheim</td><td>7</td><td>16</td><td>23</td></tr>
+    <tr><td>9</td><td>Ivan Provorov</td><td>6</td><td>21</td><td>27</td></tr>
+    <tr><td>13</td><td>Kevin Hayes</td><td>18</td><td>36</td><td>54</td></tr>
+    <tr><td>20</td><td>Kieffer Bellows</td><td>3</td><td>0</td><td>3</td></tr>
+    <tr><td>21</td><td>Scott Laughton</td><td>18</td><td>25</td><td>43</td></tr>
+    <tr><td>22</td><td>Brendan Lemieux</td><td>2</td><td>4</td><td>6</td></tr>
+    <tr><td>24</td><td>Nick Seeler</td><td>4</td><td>10</td><td>14</td></tr>
+    <tr><td>25</td><td>James van Riemsdyk</td><td>12</td><td>17</td><td>29</td></tr>
+    <tr><td>44</td><td>Nicolas Deslauriers</td><td>6</td><td>6</td><td>12</td></tr>
+    <tr><td>45</td><td>Cam York</td><td>2</td><td>18</td><td>20</td></tr>
+    <tr><td>48</td><td>Morgan Frost</td><td>19</td><td>27</td><td>46</td></tr>
+    <tr><td>49</td><td>Noah Cates</td><td>13</td><td>25</td><td>38</td></tr>
+    <tr><td>55</td><td>Rasmus Ristolainen</td><td>3</td><td>17</td><td>20</td></tr>
+    <tr><td>57</td><td>Wade Allison</td><td>9</td><td>6</td><td>15</td></tr>
+    <tr><td>58</td><td>Tanner Laczynski</td><td>2</td><td>2</td><td>4</td></tr>
+    <tr><td>61</td><td>Justin Braun</td><td>0</td><td>2</td><td>2</td></tr>
+    <tr><td>74</td><td>Owen Tippett</td><td>27</td><td>22</td><td>49</td></tr>
+    <tr><td>77</td><td>Tony DeAngelo</td><td>11</td><td>31</td><td>42</td></tr>
+    <tr><td>86</td><td>Joel Farabee</td><td>15</td><td>21</td><td>36</td></tr>
+    <tr><td>-</td><td>Emil Andrae</td><td>0</td><td>0</td><td>0</td></tr>
+    </tbody>
+</table>
+
+<p>Add Player:</p>
+<input type="number" id="number" placeholder="Enter Number">
+<input type="text" id="name" placeholder="Enter Name">
+<input type="number" id="goals" placeholder="Enter Goals">
+<input type="number" id="assists" placeholder="Enter Assists">
+<input type="number" id="points" placeholder="Enter Points">
+<button>Add</button>
+<script src="addrow.js"></script>
+
+
+
+<div id = "lineup">
+    <table >
+        <caption>Starting Lineup</caption>
+        <tr><th>LW</th><th>C</th><th>RW</th></tr>
+        <tr><td>Joel Farabee</td><td>Morgan Frost</td><td>Travis Konecny</td></tr>
+        <tr><td>Kevin Hayes</td><td>Noah Cates</td><td>Owen Tippett</td></tr>
+        <tr><td>James van Reimsdyk</td><td>Scott Laughton</td><td>Wade Allison</td></tr>
+        <tr><td>Nicolas Deslaudiers</td><td>Tanner Laczynski</td><td>Brendan Lemieux</td></tr>
+        <tr><th>LD</th><th>RD</th></tr>
+        <tr><td>Ivan Provorov</td><td>Cam York</td></tr>
+        <tr><td>Travis Sanheim</td><td>Rasmus Ristolainen</td></tr>
+        <tr><td>Nick Seeler</td><td>Justin Braun</td></tr>
+
+    </table>
+</div>
+<table>
+    <caption>Goaltenders</caption>
+    <tr><th>#</th><th>Name</th><th>Record</th><th>GAA</th><th>SV%</th></tr>
+    <tr><td>32</td><td>Felix Sandstrom</td><td>2-11-3</td><td>3.64</td><td>.882</td></tr>
+    <tr><td>33</td><td>Samuel Ersson</td><td>6-2-0</td><td>3.07</td><td>.899</td></tr>
+    <tr><td>79</td><td>Carter Hart</td><td>21-21-10</td><td>2.90</td><td>.909</td></tr>
+</table>
+<analytics>
+    <table class ="table table-sortable">
+        <caption> Starting Roster </caption>
+        <thead>
+        <tr><th>#</th><th>Name</th><th>Corsi</th><th>xG</th></tr>
+        </thead>
+        <tbody>
+        <tr><td>6</td><td>Travis Sanheim</td><td>7</td><td>16</td></tr>
+        <tr><td>9</td><td>Ivan Provorov</td><td>6</td><td>21</td></tr>
+        <tr><td>13</td><td>Kevin Hayes</td><td>18</td><td>36</td></tr>
+        <tr><td>20</td><td>Kieffer Bellows</td><td>3</td><td>0</td></tr>
+        <tr><td>21</td><td>Scott Laughton</td><td>18</td><td>25</td></tr>
+        <tr><td>22</td><td>Brendan Lemieux</td><td>2</td><td>4</td></tr>
+        <tr><td>24</td><td>Nick Seeler</td><td>4</td><td>10</td></tr>
+        <tr><td>25</td><td>James van Riemsdyk</td><td>12</td><td>17</td></tr>
+        <tr><td>44</td><td>Nicolas Deslauriers</td><td>6</td><td>6</td></tr>
+        <tr><td>45</td><td>Cam York</td><td>2</td><td>18</td></tr>
+        <tr><td>48</td><td>Morgan Frost</td><td>19</td><td>27</td></tr>
+        <tr><td>49</td><td>Noah Cates</td><td>13</td><td>25</td></tr>
+        <tr><td>55</td><td>Rasmus Ristolainen</td><td>3</td><td>17</td></tr>
+        <tr><td>57</td><td>Wade Allison</td><td>9</td><td>6</td></tr>
+        <tr><td>58</td><td>Tanner Laczynski</td><td>2</td><td>2</td></tr>
+        <tr><td>61</td><td>Justin Braun</td><td>0</td><td>2</td></tr>
+        <tr><td>74</td><td>Owen Tippett</td><td>27</td><td>22</td></tr>
+        <tr><td>77</td><td>Tony DeAngelo</td><td>11</td><td>31</td></tr>
+        <tr><td>86</td><td>Joel Farabee</td><td>15</td><td>21</td></tr>
+        <tr><td>-</td><td>Emil Andrae</td><td>0</td><td>0</td></tr>
+        </tbody>
+    </table>
+</analytics>
+<script src ="tablesort.js"></script>
+<a href="index.html">Home</a>
+</body>

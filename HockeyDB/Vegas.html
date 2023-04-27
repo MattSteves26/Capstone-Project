@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Matthew Steves">
+    <title>Vegas Golden Knights</title>
+    <style>
+table, th, td {border: thin solid;}
+analytics {
+        position: absolute;
+        top: 142px;
+        width: 250px; height: 280px;
+        text-align: center;
+        font-size: 12pt;
+        left: 330px;
+
+    }
+
+    #content {
+        position: relative;
+    }
+    #content img {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+    #center {
+        background-color: gold;
+        font-size: 20pt;
+        text-align: center;
+    }
+    #lineup {
+    	position: absolute;
+    	top: 142px;
+    	left: 700px;
+    	text-align: center;
+    }
+
+
+</style>
+</head>
+<body>
+    <div id="center">
+        Vegas Golden Knights
+    </div>
+
+    <div id="content"> <img id="Knights Logo" src="Knights.gif" alt="Knights"> </div>
+
+    <p>
+        Team Record: 51-22-9 <br>
+        Point Percentage: .677% <br>
+        Corsi Relative: 48.39% <br>
+        PDO: 1.010 <br>
+    </p>
+
+
+
+    <table class ="table table-sortable" border="1">
+        <caption> Starting Roster </caption>
+        <thead>
+        <tr><th>#</th><th>Name</th><th>G</th><th>A</th><th>P</th></tr>
+        </thead>
+        <tbody>
+    <tr><td>2</td><td>Zach Whitecloud</td><td>5</td><td>7</td><td>12</td></tr>
+    <tr><td>3</td><td>Brayden McNabb</td><td>1</td><td>16</td><td>17</td></tr>
+    <tr><td>7</td><td>Alex Pietrangelo</td><td>11</td><td>43</td><td>54</td></tr>
+    <tr><td>8</td><td>Phil Kessel</td><td>14</td><td>22</td><td>36</td></tr>
+    <tr><td>9</td><td>Jack Eichel</td><td>27</td><td>39</td><td>66</td></tr>
+    <tr><td>10</td><td>Nicolas Roy</td><td>14</td><td>16</td><td>30</td></tr>
+    <tr><td>14</td><td>Nicolas Hague</td><td>3</td><td>14</td><td>17</td></tr>
+    <tr><td>17</td><td>Ben Hutton</td><td>3</td><td>5</td><td>8</td></tr>
+    <tr><td>19</td><td>Reilly Smith</td><td>26</td><td>30</td><td>56</td></tr>
+    <tr><td>20</td><td>Chandler Stephson</td><td>16</td><td>49</td><td>65</td></tr>
+    <tr><td>21</td><td>Brett Howden</td><td>6</td><td>7</td><td>13</td></tr>
+    <tr><td>22</td><td>Michael Amadio</td><td>16</td><td>11</td><td>27</td></tr>
+    <tr><td>23</td><td>Alec Martinez</td><td>3</td><td>11</td><td>14</td></tr>
+    <tr><td>27</td><td>Shea Theodore</td><td>8</td><td>33</td><td>41</td></tr>
+    <tr><td>28</td><td>William Carrier</td><td>16</td><td>9</td><td>25</td></tr>
+    <tr><td>43</td><td>Paul Cotter</td><td>13</td><td>5</td><td>18</td></tr>
+    <tr><td>49</td><td>Ivan Barbashev</td><td>6</td><td>10</td><td>16</td></tr>
+    <tr><td>53</td><td>Teddy Blueger</td><td>2</td><td>4</td><td>6</td></tr>
+    <tr><td>55</td><td>Keegan Kolesar</td><td>8</td><td>10</td><td>18</td></tr>
+    <tr><td>71</td><td>William Karlsson</td><td>14</td><td>39</td><td>53</td></tr>
+    <tr><td>81</td><td>Jonathan Marchessault</td><td>28</td><td>29</td><td>57</td></tr>
+        </tbody>
+</table>
+
+    <p>Add Player:</p>
+    <input type="number" id="number" placeholder="Enter Number">
+    <input type="text" id="name" placeholder="Enter Name">
+    <input type="number" id="goals" placeholder="Enter Goals">
+    <input type="number" id="assists" placeholder="Enter Assists">
+    <input type="number" id="points" placeholder="Enter Points">
+    <button>Add</button>
+    <script src="addrow.js"></script>
+
+
+    <div id = "lineup">
+        <table >
+            <caption>Starting Lineup</caption>
+            <tr><th>LW</th><th>C</th><th>RW</th></tr>
+            <tr><td>Pavel Dorofeyev</td><td>Jack Eichel</td><td>Jonathan Marchessault</td></tr>
+            <tr><td>Mike Amadio</td><td>William Karlsson</td><td>Reilly Smith</td></tr>
+            <tr><td>Ivan Barbashev</td><td>Chandler Stephenson</td><td>Phil Kessel</td></tr>
+            <tr><td>Brett Howden</td><td>Nicolas Roy</td><td>Keegan Kolesar</td></tr>
+            <tr><th>LD</th><th>RD</th></tr>
+            <tr><td>Alec Martinez</td><td>Alex Pietrangelo</td></tr>
+            <tr><td>Brayden McNabb</td><td>Shea Theodore</td></tr>
+            <tr><td>Ben Hutton</td><td>Nicolas Hague</td></tr>
+
+        </table>
+    </div>
+<table>
+    <caption>Goaltenders</caption>
+    <tr><th>#</th><th>Name</th><th>Record</th><th>GAA</th><th>SV%</th></tr>
+    <tr><td>32</td><td>Johnathan Quick</td><td>5-2-0</td><td>3.53</td><td>.896</td></tr>
+    <tr><td>33</td><td>Adin Hill</td><td>16-7-1</td><td>2.45</td><td>.915</td></tr>
+    <tr><td>36</td><td>Logan Thompson</td><td>21-13-3</td><td>2.65</td><td>.915</td></tr>
+    <tr><td>39</td><td>Laurent Brossoit</td><td>4-0-3</td><td>2.50</td><td>.918</td></tr>
+</table>
+
+    <analytics>
+        <table class ="table table-sortable">
+            <caption> Starting Roster </caption>
+            <thead>
+            <tr><th>#</th><th>Name</th><th>Corsi</th><th>xG</th></tr>
+            </thead>
+            <tbody>
+            <tr><td>2</td><td>Zach Whitecloud</td><td>5</td><td>3.49</td></tr>
+            <tr><td>3</td><td>Brayden McNabb</td><td>1</td><td>4.2</td></tr>
+            <tr><td>7</td><td>Alex Pietrangelo</td><td>11</td><td>10.31</td></tr>
+            <tr><td>8</td><td>Phil Kessel</td><td>14</td><td>14.33</td></tr>
+            <tr><td>9</td><td>Jack Eichel</td><td>27</td><td>19.49</td></tr>
+            <tr><td>10</td><td>Nicolas Roy</td><td>14</td><td>16.04</td></tr>
+            <tr><td>14</td><td>Nicolas Hague</td><td>3</td><td>5.05</td></tr>
+            <tr><td>17</td><td>Ben Hutton</td><td>3</td><td>2.64</td></tr>
+            <tr><td>19</td><td>Reilly Smith</td><td>26</td><td>19.9</td></tr>
+            <tr><td>20</td><td>Chandler Stephenson</td><td>16</td><td>18.03</td></tr>
+            <tr><td>21</td><td>Brett Howden</td><td>6</td><td>5.6</td></tr>
+            <tr><td>22</td><td>Michael Amadio</td><td>16</td><td>10.69</td></tr>
+            <tr><td>23</td><td>Alec Martinez</td><td>3</td><td>3.8</td></tr>
+            <tr><td>27</td><td>Shea Theodore</td><td>8</td><td>7.19</td></tr>
+            <tr><td>28</td><td>William Carrier</td><td>16</td><td>13.81</td></tr>
+            <tr><td>43</td><td>Paul Cotter</td><td>13</td><td>12.2</td></tr>
+            <tr><td>49</td><td>Ivan Barbashev</td><td>6</td><td>4.3</td></tr>
+            <tr><td>53</td><td>Teddy Blueger</td><td>2</td><td>1.8</td></tr>
+            <tr><td>55</td><td>Keegan Kolesar</td><td>8</td><td>7.87</td></tr>
+            <tr><td>71</td><td>William Karlsson</td><td>14</td><td>21.52</td></tr>
+            <tr><td>81</td><td>Jonathan Marchessault</td><td>28</td><td>24.22</td></tr>
+            </tbody>
+        </table>
+    </analytics>
+    <script src ="tablesort.js"></script>
+    <a href="index.html">Home</a>
+</body>

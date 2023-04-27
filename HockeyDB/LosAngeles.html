@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Matthew Steves">
+    <title>LA Kings</title>
+    <style>
+table, th, td {border: thin solid;}
+analytics {
+        position: absolute;
+        top: 142px;
+        width: 250px; height: 280px;
+        text-align: center;
+        font-size: 12pt;
+        left: 330px;
+
+    }
+#content {
+        position: relative;
+    }
+    #content img {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+    #center {
+        background-color: gray;
+        font-size: 20pt;
+        text-align: center;
+    }
+    #lineup {
+    	position: absolute;
+    	top: 142px;
+    	left: 700px;
+    	text-align: center;
+    }
+
+
+</style>
+</head>
+<body>
+<div id="center">
+    Los Angeles Kings
+</div>
+
+<div id="content"> <img id="Kings Logo" src="Kings.gif" alt="Kings"> </div>
+
+    <p>
+        Team Record: 47-25-10 <br>
+        Point Percentage: .634% <br>
+        Corsi Relative: 52.08% <br>
+        PDO: .992 <br>
+    </p>
+
+
+
+<table class ="table table-sortable" border="1">
+    <caption> Starting Roster </caption>
+    <thead>
+    <tr><th>#</th><th>Name</th><th>G</th><th>A</th><th>P</th></tr>
+    </thead>
+    <tbody>
+    <tr><td>2</td><td>Alexander Edler</td><td>2</td><td>9</td><td>11</td></tr>
+    <tr><td>3</td><td>Matt Roy</td><td>9</td><td>17</td><td>26</td></tr>
+    <tr><td>8</td><td>Drew Doughty</td><td>9</td><td>43</td><td>52</td></tr>
+    <tr><td>9</td><td>Adrian Kempe</td><td>41</td><td>26</td><td>67</td></tr>
+    <tr><td>11</td><td>Anze Kopitar</td><td>28</td><td>46</td><td>74</td></tr>
+    <tr><td>12</td><td>Trevor Moore</td><td>10</td><td>19</td><td>29</td></tr>
+    <tr><td>13</td><td>Gabriel Vilardi</td><td>23</td><td>18</td><td>41</td></tr>
+    <tr><td>17</td><td>Zack MacEwen</td><td>0</td><td>1</td><td>1</td></tr>
+    <tr><td>19</td><td>Alex Iafallo</td><td>14</td><td>22</td><td>36</td></tr>
+    <tr><td>22</td><td>Kevin Fiala</td><td>23</td><td>49</td><td>72</td></tr>
+    <tr><td>24</td><td>Phillip Danault</td><td>18</td><td>36</td><td>53</td></tr>
+    <tr><td>28</td><td>Jaret Anderson-Dolan</td><td>7</td><td>5</td><td>12</td></tr>
+    <tr><td>33</td><td>Viktor Arvidsson</td><td>26</td><td>33</td><td>59</td></tr>
+    <tr><td>34</td><td>Arthur Kaliyev</td><td>13</td><td>15</td><td>28</td></tr>
+    <tr><td>44</td><td>Mikey Anderson</td><td>5</td><td>15</td><td>20</td></tr>
+    <tr><td>46</td><td>Blake Lizotte</td><td>11</td><td>23</td><td>34</td></tr>
+    <tr><td>50</td><td>Sean Durzi</td><td>9</td><td>29</td><td>38</td></tr>
+    <tr><td>55</td><td>Quinton Byfield</td><td>3</td><td>19</td><td>22</td></tr>
+    <tr><td>84</td><td>Vladislav Gavrikov</td><td>3</td><td>9</td><td>12</td></tr>
+    <tr><td>89</td><td>Rasmus Kupari</td><td>3</td><td>12</td><td>15</td></tr>
+    <tr><td>91</td><td>Carl Grundstrom</td><td>12</td><td>7</td><td>19</td></tr>
+    </tbody>
+</table>
+
+<p>Add Player:</p>
+<input type="number" id="number" placeholder="Enter Number">
+<input type="text" id="name" placeholder="Enter Name">
+<input type="number" id="goals" placeholder="Enter Goals">
+<input type="number" id="assists" placeholder="Enter Assists">
+<input type="number" id="points" placeholder="Enter Points">
+<button>Add</button>
+<script src="addrow.js"></script>
+
+
+
+<div id = "lineup">
+    <table >
+        <caption>Starting Lineup</caption>
+        <tr><th>LW</th><th>C</th><th>RW</th></tr>
+        <tr><td>Quinton Byfield</td><td>Anze Kopitar</td><td>Adrian Kempe</td></tr>
+        <tr><td>Trevor Moore</td><td>Phillip Danault</td><td>Viktor Arvidsson</td></tr>
+        <tr><td>Alex Iafallo</td><td>Blake Lizotte</td><td>Arthur Kaliyev</td></tr>
+        <tr><td>Carl Grundstrom</td><td>Rasmus Kupari</td><td>Jaret Anderson-Dolan</td></tr>
+        <tr><th>LD</th><th>RD</th></tr>
+        <tr><td>Mikey Anderson</td><td>Drew Doughty</td></tr>
+        <tr><td>Vladislav Gavrikov</td><td>Matt Roy</td></tr>
+        <tr><td>Sean Durzi</td><td>Sean Walker</td></tr>
+
+    </table>
+</div>
+<table>
+    <caption>Goaltenders</caption>
+    <tr><th>#</th><th>Name</th><th>Record</th><th>GAA</th><th>SV%</th></tr>
+    <tr><td>29</td><td>Phoenix Copley</td><td>24-4-3</td><td>2.67</td><td>.901</td></tr>
+    <tr><td>70</td><td>Joonas Korpisalo</td><td>5-2-1</td><td>1.75</td><td>.937</td></tr>
+</table>
+<analytics>
+    <table class ="table table-sortable">
+        <caption> Starting Roster </caption>
+        <thead>
+        <tr><th>#</th><th>Name</th><th>Corsi</th><th>xG</th></tr>
+        </thead>
+        <tbody>
+        <tr><td>2</td><td>Alexander Edler</td><td>2</td><td>9</td></tr>
+        <tr><td>3</td><td>Matt Roy</td><td>9</td><td>17</td></tr>
+        <tr><td>8</td><td>Drew Doughty</td><td>9</td><td>43</td></tr>
+        <tr><td>9</td><td>Adrian Kempe</td><td>41</td><td>26</td></tr>
+        <tr><td>11</td><td>Anze Kopitar</td><td>28</td><td>46</td></tr>
+        <tr><td>12</td><td>Trevor Moore</td><td>10</td><td>19</td></tr>
+        <tr><td>13</td><td>Gabriel Vilardi</td><td>23</td><td>18</td></tr>
+        <tr><td>17</td><td>Zack MacEwen</td><td>0</td><td>1</td></tr>
+        <tr><td>19</td><td>Alex Iafallo</td><td>14</td><td>22</td></tr>
+        <tr><td>22</td><td>Kevin Fiala</td><td>23</td><td>49</td></tr>
+        <tr><td>24</td><td>Phillip Danault</td><td>18</td><td>36</td></tr>
+        <tr><td>28</td><td>Jaret Anderson-Dolan</td><td>7</td><td>5</td></tr>
+        <tr><td>33</td><td>Viktor Arvidsson</td><td>26</td><td>33</td></tr>
+        <tr><td>34</td><td>Arthur Kaliyev</td><td>13</td><td>15</td></tr>
+        <tr><td>44</td><td>Mikey Anderson</td><td>5</td><td>15</td></tr>
+        <tr><td>46</td><td>Blake Lizotte</td><td>11</td><td>23</td></tr>
+        <tr><td>50</td><td>Sean Durzi</td><td>9</td><td>29</td></tr>
+        <tr><td>55</td><td>Quinton Byfield</td><td>3</td><td>19</td></tr>
+        <tr><td>84</td><td>Vladislav Gavrikov</td><td>3</td><td>9</td></tr>
+        <tr><td>89</td><td>Rasmus Kupari</td><td>3</td><td>12</td></tr>
+        <tr><td>91</td><td>Carl Grundstrom</td><td>12</td><td>7</td></tr>
+        </tbody>
+    </table>
+</analytics>
+<script src ="tablesort.js"></script>
+<a href="index.html">Home</a>
+</body>

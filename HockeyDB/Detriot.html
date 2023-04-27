@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Matthew Steves">
+    <title>Detroit Red Wings</title>
+    <style>
+table, th, td {border: thin solid;}
+analytics {
+        position: absolute;
+        top: 142px;
+        width: 250px; height: 280px;
+        text-align: center;
+        font-size: 12pt;
+        left: 330px;
+
+    }
+#content {
+        position: relative;
+    }
+    #content img {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+    #center {
+        background-color: red;
+        font-size: 20pt;
+        text-align: center;
+    }
+    #lineup {
+    	position: absolute;
+    	top: 142px;
+    	left: 700px;
+    	text-align: center;
+    }
+
+
+</style>
+</head>
+<body>
+<div id="center">
+    Detriot Red Wings
+</div>
+
+<div id="content"> <img id="Wings Logo" src="RedWings.gif" alt="Red Wings"> </div>
+
+    <p>
+        Team Record: 35-37-10 <br>
+        Point Percentage: .488% <br>
+        Corsi Relative: 45.97% <br>
+        PDO: .997 <br>
+    </p>
+
+
+<table class ="table table-sortable" border="1">
+    <caption> Starting Roster </caption>
+    <thead>
+    <tr><th>#</th><th>Name</th><th>G</th><th>A</th><th>P</th></tr>
+    </thead>
+    <tbody>
+    <tr><td>2</td><td>Olli Maatta</td><td>6</td><td>17</td><td>23</td></tr>
+    <tr><td>3</td><td>Simon Edvinsson</td><td>1</td><td>0</td><td>1</td></tr>
+    <tr><td>8</td><td>Ben Chiarot</td><td>5</td><td>14</td><td>19</td></tr>
+    <tr><td>11</td><td>Filip Zadina</td><td>3</td><td>4</td><td>7</td></tr>
+    <tr><td>18</td><td>Andrew Copp</td><td>9</td><td>33</td><td>42</td></tr>
+    <tr><td>21</td><td>Austin Czarnik</td><td>3</td><td>2</td><td>5</td></tr>
+    <tr><td>22</td><td>Matt Luff</td><td>2</td><td>2</td><td>4</td></tr>
+    <tr><td>23</td><td>Lucas Raymond</td><td>17</td><td>28</td><td>45</td></tr>
+    <tr><td>24</td><td>Pius Suter</td><td>14</td><td>10</td><td>24</td></tr>
+    <tr><td>28</td><td>Gustav Lindstrom</td><td>1</td><td>7</td><td>8</td></tr>
+    <tr><td>38</td><td>Robert Hagg</td><td>2</td><td>5</td><td>7</td></tr>
+    <tr><td>48</td><td>Alex Chiasson</td><td>6</td><td>3</td><td>9</td></tr>
+    <tr><td>52</td><td>Jonatan Berggren</td><td>15</td><td>13</td><td>28</td></tr>
+    <tr><td>53</td><td>Mortiz Seider</td><td>5</td><td>37</td><td>42</td></tr>
+    <tr><td>57</td><td>David Perron</td><td>24</td><td>32</td><td>56</td></tr>
+    <tr><td>71</td><td>Dylan Larkin</td><td>32</td><td>47</td><td>79</td></tr>
+    <tr><td>73</td><td>Adam Erne</td><td>8</td><td>10</td><td>18</td></tr>
+    <tr><td>81</td><td>Dominik Kubalik</td><td>20</td><td>25</td><td>45</td></tr>
+    <tr><td>82</td><td>Jordan Oesterle</td><td>2</td><td>9</td><td>11</td></tr>
+    <tr><td>90</td><td>Joe Veleno</td><td>9</td><td>11</td><td>20</td></tr>
+    <tr><td>92</td><td>Marco Kasper</td><td>0</td><td>0</td><td>0</td></tr>
+    <tr><td>96</td><td>Jakie Walman</td><td>9</td><td>9</td><td>18</td></tr>
+    </tbody>
+</table>
+
+<p>Add Player:</p>
+<input type="number" id="number" placeholder="Enter Number">
+<input type="text" id="name" placeholder="Enter Name">
+<input type="number" id="goals" placeholder="Enter Goals">
+<input type="number" id="assists" placeholder="Enter Assists">
+<input type="number" id="points" placeholder="Enter Points">
+<button>Add</button>
+<script src="addrow.js"></script>
+
+
+
+
+<div id = "lineup">
+    <table >
+        <caption>Starting Lineup</caption>
+        <tr><th>LW</th><th>C</th><th>RW</th></tr>
+        <tr><td>Lucas Raymond</td><td>Dylan Larkin</td><td>David Perron</td></tr>
+        <tr><td>Pius Suter</td><td>Andrew Copp</td><td>Dominik Kubalik</td></tr>
+        <tr><td>Jonatan Berggren</td><td>Joe Veleno</td><td>Matt Luff</td></tr>
+        <tr><td>Jordan Oesterle</td><td>Austin Czarnik</td><td>Alex Chiasson</td></tr>
+        <tr><th>LD</th><th>RD</th></tr>
+        <tr><td>Jake Walman</td><td>Moritz Seider</td></tr>
+        <tr><td>Olli Maatta</td><td>Ben Chiarot</td></tr>
+        <tr><td>Robert Hagg</td><td>Gustav Lindstrom</td></tr>
+
+    </table>
+</div>
+<table>
+    <caption>Goaltenders</caption>
+    <tr><th>#</th><th>Name</th><th>Record</th><th>GAA</th><th>SV%</th></tr>
+    <tr><td>35</td><td>Ville Husso</td><td>25-19-6</td><td>3.01</td><td>.899</td></tr>
+    <tr><td>39</td><td>Alex Nedeljkovic</td><td>5-6-2</td><td>3.56</td><td>.895</td></tr>
+    <tr><td>45</td><td>Magnus Hellberg</td><td>4-8-1</td><td>3.26</td><td>.887</td></tr>
+</table>
+<analytics>
+    <table class ="table table-sortable">
+        <caption> Starting Roster </caption>
+        <thead>
+        <tr><th>#</th><th>Name</th><th>Corsi</th><th>xG</th></tr>
+        </thead>
+        <tbody>
+        <tr><td>2</td><td>Olli Maatta</td><td>6</td><td>17</td></tr>
+        <tr><td>3</td><td>Simon Edvinsson</td><td>1</td><td>0</td></tr>
+        <tr><td>8</td><td>Ben Chiarot</td><td>5</td><td>14</td></tr>
+        <tr><td>11</td><td>Filip Zadina</td><td>3</td><td>4</td></tr>
+        <tr><td>18</td><td>Andrew Copp</td><td>9</td><td>33</td></tr>
+        <tr><td>21</td><td>Austin Czarnik</td><td>3</td><td>2</td></tr>
+        <tr><td>22</td><td>Matt Luff</td><td>2</td><td>2</td></tr>
+        <tr><td>23</td><td>Lucas Raymond</td><td>17</td><td>28</td></tr>
+        <tr><td>24</td><td>Pius Suter</td><td>14</td><td>10</td></tr>
+        <tr><td>28</td><td>Gustav Lindstrom</td><td>1</td><td>7</td></tr>
+        <tr><td>38</td><td>Robert Hagg</td><td>2</td><td>5</td></tr>
+        <tr><td>48</td><td>Alex Chiasson</td><td>6</td><td>3</td></tr>
+        <tr><td>52</td><td>Jonatan Berggren</td><td>15</td><td>13</td></tr>
+        <tr><td>53</td><td>Mortiz Seider</td><td>5</td><td>37</td></tr>
+        <tr><td>57</td><td>David Perron</td><td>24</td><td>32</td></tr>
+        <tr><td>71</td><td>Dylan Larkin</td><td>32</td><td>47</td></tr>
+        <tr><td>73</td><td>Adam Erne</td><td>8</td><td>10</td></tr>
+        <tr><td>81</td><td>Dominik Kubalik</td><td>20</td><td>25</td></tr>
+        <tr><td>82</td><td>Jordan Oesterle</td><td>2</td><td>9</td></tr>
+        <tr><td>90</td><td>Joe Veleno</td><td>9</td><td>11</td></tr>
+        <tr><td>92</td><td>Marco Kasper</td><td>0</td><td>0</td></tr>
+        <tr><td>96</td><td>Jakie Walman</td><td>9</td><td>9</td></tr>
+        </tbody>
+    </table>
+</analytics>
+<script src ="tablesort.js"></script>
+<a href="index.html">Home</a>
+</body>

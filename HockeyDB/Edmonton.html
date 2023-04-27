@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Matthew Steves">
+    <title>Edmonton Oilers</title>
+    <style>
+table, th, td {border: thin solid;}
+analytics {
+        position: absolute;
+        top: 142px;
+        width: 250px; height: 280px;
+        text-align: center;
+        font-size: 12pt;
+        left: 330px;
+
+    }
+#content {
+        position: relative;
+    }
+    #content img {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+    #center {
+        background-color: blue;
+        font-size: 20pt;
+        text-align: center;
+    }
+    #lineup {
+    	position: absolute;
+    	top: 142px;
+    	left: 700px;
+    	text-align: center;
+    }
+
+
+</style>
+</head>
+<body>
+<div id="center">
+    Edmonton Oilers
+</div>
+
+<div id="content"> <img id="Oilers Logo" src="Oilers.gif" alt="Oilers"> </div>
+
+    <p>
+        Team Record: 50-23-9 <br>
+        Point Percentage: .665% <br>
+        Corsi Relative: 52.25% <br>
+        PDO: 1.004 <br>
+    </p>
+
+
+
+<table class ="table table-sortable" border="1">
+    <caption> Starting Roster </caption>
+    <thead>
+    <tr><th>#</th><th>Name</th><th>G</th><th>A</th><th>P</th></tr>
+    </thead>
+    <tbody>
+    <tr><td>2</td><td>Evan Bouchard</td><td>8</td><td>32</td><td>40</td></tr>
+    <tr><td>5</td><td>Cody Ceci</td><td>1</td><td>14</td><td>15</td></tr>
+    <tr><td>10</td><td>Derek Ryan</td><td>13</td><td>7</td><td>20</td></tr>
+    <tr><td>14</td><td>Mattias Ekholm</td><td>4</td><td>10</td><td>14</td></tr>
+    <tr><td>18</td><td>Zach Hyman</td><td>36</td><td>47</td><td>83</td></tr>
+    <tr><td>19</td><td>Devin Shore</td><td>1</td><td>8</td><td>9</td></tr>
+    <tr><td>21</td><td>Klim Kostin</td><td>11</td><td>10</td><td>21</td></tr>
+    <tr><td>25</td><td>Darnell Nurse</td><td>12</td><td>31</td><td>43</td></tr>
+    <tr><td>26</td><td>Mattias Janmark</td><td>10</td><td>15</td><td>25</td></tr>
+    <tr><td>27</td><td>Brett Kulak</td><td>3</td><td>17</td><td>20</td></tr>
+    <tr><td>29</td><td>Leon Draisaitl</td><td>52</td><td>76</td><td>128</td></tr>
+    <tr><td>37</td><td>Warren Foegele</td><td>13</td><td>15</td><td>28</td></tr>
+    <tr><td>56</td><td>Kailer Yamamoto</td><td>10</td><td>15</td><td>25</td></tr>
+    <tr><td>71</td><td>Ryan McLeod</td><td>11</td><td>12</td><td>23</td></tr>
+    <tr><td>72</td><td>Nick Bjugstad</td><td>4</td><td>2</td><td>6</td></tr>
+    <tr><td>73</td><td>Vicent Desharnais</td><td>0</td><td>5</td><td>5</td></tr>
+    <tr><td>86</td><td>Philip Broberg</td><td>1</td><td>7</td><td>8</td></tr>
+    <tr><td>91</td><td>Evander Kane</td><td>16</td><td>12</td><td>28</td></tr>
+    <tr><td>93</td><td>Ryan Nugent-Hopkins</td><td>37</td><td>67</td><td>104</td></tr>
+    <tr><td>97</td><td>Connor McDavid</td><td>64</td><td>89</td><td>153</td></tr>
+    </tbody>
+</table>
+
+<p>Add Player:</p>
+<input type="number" id="number" placeholder="Enter Number">
+<input type="text" id="name" placeholder="Enter Name">
+<input type="number" id="goals" placeholder="Enter Goals">
+<input type="number" id="assists" placeholder="Enter Assists">
+<input type="number" id="points" placeholder="Enter Points">
+<button>Add</button>
+<script src="addrow.js"></script>
+
+
+
+<div id = "lineup">
+    <table >
+        <caption>Starting Lineup</caption>
+        <tr><th>LW</th><th>C</th><th>RW</th></tr>
+        <tr><td>Ryan Nugent-Hopkins</td><td>Connor McDavid</td><td>Zach Hymann</td></tr>
+        <tr><td>Evander Kane</td><td>Leon Draisaitl</td><td>Kailer Yamamoto</td></tr>
+        <tr><td>Klim Kostin</td><td>Nick Bjugstad</td><td>Mattias Janmark</td></tr>
+        <tr><td>Warren Foegele</td><td>Ryan Mcleod</td><td>Derek Ryan</td></tr>
+        <tr><th>LD</th><th>RD</th></tr>
+        <tr><td>Darnell Nurse</td><td>Cody Ceci</td></tr>
+        <tr><td>Mattias Ekholm</td><td>J.J Moser</td></tr>
+        <tr><td>Brett Kulak</td><td>Vincent Desharnais</td></tr>
+
+    </table>
+</div>
+<table>
+    <caption>Goaltenders</caption>
+    <tr><th>#</th><th>Name</th><th>Record</th><th>GAA</th><th>SV%</th></tr>
+    <tr><td>36</td><td>Jack Campbell</td><td>20-9-4</td><td>3.48</td><td>.886</td></tr>
+    <tr><td>74</td><td>Stuart Skinner</td><td>25-14-5</td><td>2.88</td><td>.911</td></tr>
+</table>
+<analytics>
+    <table class ="table table-sortable">
+        <caption> Starting Roster </caption>
+        <thead>
+        <tr><th>#</th><th>Name</th><th>Corsi</th><th>xG</th></tr>
+        </thead>
+        <tbody>
+        <tr><td>2</td><td>Evan Bouchard</td><td>8</td><td>32</td></tr>
+        <tr><td>5</td><td>Cody Ceci</td><td>1</td><td>14</td></tr>
+        <tr><td>10</td><td>Derek Ryan</td><td>13</td><td>7</td></tr>
+        <tr><td>14</td><td>Mattias Ekholm</td><td>4</td><td>10</td></tr>
+        <tr><td>18</td><td>Zach Hyman</td><td>36</td><td>47</td></tr>
+        <tr><td>19</td><td>Devin Shore</td><td>1</td><td>8</td></tr>
+        <tr><td>21</td><td>Klim Kostin</td><td>11</td><td>10</td></tr>
+        <tr><td>25</td><td>Darnell Nurse</td><td>12</td><td>31</td></tr>
+        <tr><td>26</td><td>Mattias Janmark</td><td>10</td><td>15</td></tr>
+        <tr><td>27</td><td>Brett Kulak</td><td>3</td><td>17</td></tr>
+        <tr><td>29</td><td>Leon Draisaitl</td><td>52</td><td>76</td></tr>
+        <tr><td>37</td><td>Warren Foegele</td><td>13</td><td>15</td></tr>
+        <tr><td>56</td><td>Kailer Yamamoto</td><td>10</td><td>15</td></tr>
+        <tr><td>71</td><td>Ryan McLeod</td><td>11</td><td>12</td></tr>
+        <tr><td>72</td><td>Nick Bjugstad</td><td>4</td><td>2</td></tr>
+        <tr><td>73</td><td>Vicent Desharnais</td><td>0</td><td>5</td></tr>
+        <tr><td>86</td><td>Philip Broberg</td><td>1</td><td>7</td></tr>
+        <tr><td>91</td><td>Evander Kane</td><td>16</td><td>12</td></tr>
+        <tr><td>93</td><td>Ryan Nugent-Hopkins</td><td>37</td><td>67</td></tr>
+        <tr><td>97</td><td>Connor McDavid</td><td>64</td><td>89</td></tr>
+        </tbody>
+    </table>
+</analytics>
+<script src ="tablesort.js"></script>
+<a href="index.html">Home</a>
+</body>

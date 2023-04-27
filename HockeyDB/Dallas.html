@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Matthew Steves">
+    <title>Dallas Stars</title>
+    <style>
+table, th, td {border: thin solid;}
+
+analytics {
+        position: absolute;
+        top: 142px;
+        width: 250px; height: 280px;
+        text-align: center;
+        font-size: 12pt;
+        left: 330px;
+
+    }
+#content {
+        position: relative;
+    }
+    #content img {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+    #center {
+        background-color: green;
+        font-size: 20pt;
+        text-align: center;
+    }
+    #lineup {
+    	position: absolute;
+    	top: 142px;
+    	left: 700px;
+    	text-align: center;
+    }
+
+
+</style>
+</head>
+<body>
+<div id="center">
+    Dallas Stars
+</div>
+
+<div id="content"> <img id="Stars Logo" src="Stars.gif" alt="Stars"> </div>
+
+    <p>
+        Team Record: 47-21-14 <br>
+        Point Percentage: .659% <br>
+        Corsi Relative: 51.27% <br>
+        PDO: 1.011 <br>
+    </p>
+
+
+
+<table class ="table table-sortable" border="1">
+    <caption> Starting Roster </caption>
+    <thead>
+    <tr><th>#</th><th>Name</th><th>G</th><th>A</th><th>P</th></tr>
+    </thead>
+    <tbody>
+    <tr><td>2</td><td>Jani Hakanpaa</td><td>6</td><td>10</td><td>16</td></tr>
+    <tr><td>4</td><td>Miro Heiskanen</td><td>11</td><td>62</td><td>73</td></tr>
+    <tr><td>5</td><td>Nils Lundkvist</td><td>6</td><td>10</td><td>16</td></tr>
+    <tr><td>6</td><td>Colin Miller</td><td>6</td><td>15</td><td>21</td></tr>
+    <tr><td>10</td><td>Ty Dellandrea</td><td>9</td><td>19</td><td>28</td></tr>
+    <tr><td>11</td><td>Luke Glendening</td><td>3</td><td>3</td><td>6</td></tr>
+    <tr><td>12</td><td>Radek Faksa</td><td>11</td><td>9</td><td>20</td></tr>
+    <tr><td>14</td><td>Jamie Benn</td><td>33</td><td>45</td><td>78</td></tr>
+    <tr><td>16</td><td>Joe Pavelski</td><td>28</td><td>49</td><td>77</td></tr>
+    <tr><td>18</td><td>Max Domi</td><td>2</td><td>5</td><td>7</td></tr>
+    <tr><td>20</td><td>Ryan Suter</td><td>3</td><td>22</td><td>25</td></tr>
+    <tr><td>21</td><td>Jason Robertson</td><td>46</td><td>63</td><td>107</td></tr>
+    <tr><td>23</td><td>Esa Lundell</td><td>8</td><td>16</td><td>24</td></tr>
+    <tr><td>24</td><td>Roope Hintz</td><td>37</td><td>38</td><td>75</td></tr>
+    <tr><td>25</td><td>Joel Kiviranta</td><td>8</td><td>1</td><td>9</td></tr>
+    <tr><td>27</td><td>Mason Marchment</td><td>12</td><td>19</td><td>31</td></tr>
+    <tr><td>42</td><td>Fredrik Olofsson</td><td>1</td><td>3</td><td>4</td></tr>
+    <tr><td>44</td><td>Joel Hanley</td><td>0</td><td>2</td><td>2</td></tr>
+    <tr><td>53</td><td>Wyatt Johnston</td><td>24</td><td>17</td><td>41</td></tr>
+    <tr><td>63</td><td>Evgenii Dadonov</td><td>3</td><td>12</td><td>15</td></tr>
+    <tr><td>91</td><td>Tyler Seguin</td><td>21</td><td>29</td><td>50</td></tr>
+    </tbody>
+</table>
+
+<p>Add Player:</p>
+<input type="number" id="number" placeholder="Enter Number">
+<input type="text" id="name" placeholder="Enter Name">
+<input type="number" id="goals" placeholder="Enter Goals">
+<input type="number" id="assists" placeholder="Enter Assists">
+<input type="number" id="points" placeholder="Enter Points">
+<button>Add</button>
+
+<script src="addrow.js"></script>
+
+
+
+
+<div id = "lineup">
+    <table >
+        <caption>Starting Lineup</caption>
+        <tr><th>LW</th><th>C</th><th>RW</th></tr>
+        <tr><td>Jason Robertson</td><td>Roope Hintz</td><td>Joe Pavelski</td></tr>
+        <tr><td>Jamie Benn</td><td>Wyatt Johnston</td><td>Evgenii Dadonov</td></tr>
+        <tr><td>Max Domi</td><td>Tyler Seguin</td><td>Mason Marchment</td></tr>
+        <tr><td>Joel Kiviranta</td><td>Radek Faksa</td><td>Ty Dellandrea</td></tr>
+        <tr><th>LD</th><th>RD</th></tr>
+        <tr><td>Ryan Suter</td><td>Miro Heiskanen</td></tr>
+        <tr><td>Esa Lindell</td><td>Jani Hakanpaa</td></tr>
+        <tr><td>Thomas Harley</td><td>Colin Miller</td></tr>
+
+    </table>
+</div>
+<table>
+    <caption>Goaltenders</caption>
+    <tr><th>#</th><th>Name</th><th>Record</th><th>GAA</th><th>SV%</th></tr>
+    <tr><td>29</td><td>Jake Oettinger</td><td>33-11-11</td><td>.917</td><td>2.47</td></tr>
+    <tr><td>41</td><td>Scott Wedgewood</td><td>8-8-3</td><td>.915</td><td>2.81</td></tr>
+</table>
+<analytics>
+    <table class ="table table-sortable">
+        <caption> Starting Roster </caption>
+        <thead>
+        <tr><th>#</th><th>Name</th><th>Corsi</th><th>xG</th></tr>
+        </thead>
+        <tbody>
+        <tr><td>2</td><td>Jani Hakanpaa</td><td>6</td><td>10</td></tr>
+        <tr><td>4</td><td>Miro Heiskanen</td><td>11</td><td>62</td></tr>
+        <tr><td>5</td><td>Nils Lundkvist</td><td>6</td><td>10</td></tr>
+        <tr><td>6</td><td>Colin Miller</td><td>6</td><td>15</td></tr>
+        <tr><td>10</td><td>Ty Dellandrea</td><td>9</td><td>19</td></tr>
+        <tr><td>11</td><td>Luke Glendening</td><td>3</td><td>3</td></tr>
+        <tr><td>12</td><td>Radek Faksa</td><td>11</td><td>9</td></tr>
+        <tr><td>14</td><td>Jamie Benn</td><td>33</td><td>45</td></tr>
+        <tr><td>16</td><td>Joe Pavelski</td><td>28</td><td>49</td></tr>
+        <tr><td>18</td><td>Max Domi</td><td>2</td><td>5</td></tr>
+        <tr><td>20</td><td>Ryan Suter</td><td>3</td><td>22</td></tr>
+        <tr><td>21</td><td>Jason Robertson</td><td>46</td><td>63</td></tr>
+        <tr><td>23</td><td>Esa Lundell</td><td>8</td><td>16</td></tr>
+        <tr><td>24</td><td>Roope Hintz</td><td>37</td><td>38</td></tr>
+        <tr><td>25</td><td>Joel Kiviranta</td><td>8</td><td>1</td></tr>
+        <tr><td>27</td><td>Mason Marchment</td><td>12</td><td>19</td></tr>
+        <tr><td>42</td><td>Fredrik Olofsson</td><td>1</td><td>3</td></tr>
+        <tr><td>44</td><td>Joel Hanley</td><td>0</td><td>2</td></tr>
+        <tr><td>53</td><td>Wyatt Johnston</td><td>24</td><td>17</td></tr>
+        <tr><td>63</td><td>Evgenii Dadonov</td><td>3</td><td>12</td></tr>
+        <tr><td>91</td><td>Tyler Seguin</td><td>21</td><td>29</td></tr>
+        </tbody>
+    </table>
+</analytics>
+<script src ="tablesort.js"></script>
+<a href="index.html">Home</a>
+</body>

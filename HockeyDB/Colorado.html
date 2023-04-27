@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Matthew Steves">
+    <title>Colorado Avalanche</title>
+    <style>
+table, th, td {border: thin solid;}
+
+analytics {
+        position: absolute;
+        top: 142px;
+        width: 250px; height: 280px;
+        text-align: center;
+        font-size: 12pt;
+        left: 330px;
+
+    }
+#content {
+        position: relative;
+    }
+    #content img {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+    #center {
+        background-color: maroon;
+        font-size: 20pt;
+        text-align: center;
+    }
+    #lineup {
+    	position: absolute;
+    	top: 142px;
+    	left: 700px;
+    	text-align: center;
+    }
+
+
+</style>
+</head>
+<body>
+<div id="center">
+    Colorado Avalanche
+</div>
+
+<div id="content"> <img id="Avs Logo" src="Avalanche.gif" alt="Avs"> </div>
+
+    <p>
+        Team Record: 51-24-7 <br>
+        Point Percentage: .665% <br>
+        Corsi Relative: 52.37% <br>
+        PDO: 1.007 <br>
+    </p>
+
+
+
+<!-- Need to continue from Blake Coleman -->
+<table class ="table table-sortable" border="1">
+    <caption> Starting Roster </caption>
+    <thead>
+    <tr><th>#</th><th>Name</th><th>G</th><th>A</th><th>P</th></tr>
+    </thead>
+    <tbody>
+    <tr><td>3</td><td>Jack Johnson</td><td>2</td><td>2</td><td>4</td></tr>
+    <tr><td>4</td><td>Bowen Byram</td><td>10</td><td>14</td><td>24</td></tr>
+    <tr><td>6</td><td>Erik Johnson</td><td>0</td><td>8</td><td>8</td></tr>
+    <tr><td>7</td><td>Devon Toews</td><td>6</td><td>42</td><td>48</td></tr>
+    <tr><td>8</td><td>Cale Makar</td><td>17</td><td>49</td><td>66</td></tr>
+    <tr><td>9</td><td>Evan Rodriques</td><td>16</td><td>22</td><td>38</td></tr>
+    <tr><td>11</td><td>Andrew Cogliano</td><td>10</td><td>9</td><td>19</td></tr>
+    <tr><td>13</td><td>Valeri Nichushkin</td><td>17</td><td>30</td><td>47</td></tr>
+    <tr><td>17</td><td>Brad Hunt</td><td>4</td><td>6</td><td>10</td></tr>
+    <tr><td>18</td><td>Alex Newhook</td><td>14</td><td>16</td><td>30</td></tr>
+    <tr><td>20</td><td>Lars Eller</td><td>3</td><td>4</td><td>7</td></tr>
+    <tr><td>25</td><td>Logan O'Connor</td><td>9</td><td>17</td><td>26</td></tr>
+    <tr><td>29</td><td>Nathan MacKinnon</td><td>39</td><td>68</td><td>107</td></tr>
+    <tr><td>37</td><td>J.T. Compher</td><td>17</td><td>35</td><td>52</td></tr>
+    <tr><td>42</td><td>Josh Mason</td><td>2</td><td>8</td><td>10</td></tr>
+    <tr><td>43</td><td>Darren Helm</td><td>0</td><td>0</td><td>0</td></tr>
+    <tr><td>49</td><td>Samuel Girard</td><td>6</td><td>30</td><td>36</td></tr>
+    <tr><td>56</td><td>Kurtis MacDermid</td><td>1</td><td>5</td><td>6</td></tr>
+    <tr><td>62</td><td>Artturi Lehkonen</td><td>21</td><td>30</td><td>51</td></tr>
+    <tr><td>81</td><td>Denis Malgin</td><td>11</td><td>6</td><td>17</td></tr>
+    <tr><td>83</td><td>Matt Nieto</td><td>4</td><td>5</td><td>9</td></tr>
+    <tr><td>96</td><td>Mikko Rantanen</td><td>55</td><td>48</td><td>103</td></tr>
+
+    </tbody>
+</table>
+
+<p>Add Player:</p>
+<input type="number" id="number" placeholder="Enter Number">
+<input type="text" id="name" placeholder="Enter Name">
+<input type="number" id="goals" placeholder="Enter Goals">
+<input type="number" id="assists" placeholder="Enter Assists">
+<input type="number" id="points" placeholder="Enter Points">
+<button>Add</button>
+
+<script src="addrow.js"></script>
+
+
+
+
+<div id = "lineup">
+    <table >
+        <caption>Starting Lineup</caption>
+        <tr><th>LW</th><th>C</th><th>RW</th></tr>
+        <tr><td>Evan Rodrigues</td><td>Nathan MacKinnon</td><td>Mikko Rantanen</td></tr>
+        <tr><td>Valeri Nichushkin</td><td>JT Compher</td><td>Artturi Lehkonen</td></tr>
+        <tr><td>Matt Nieto</td><td>Laras Eller</td><td>Logan O'Connor</td></tr>
+        <tr><td>Ben Myers</td><td>Alex Newhook</td><td>Alex Galchenyuk</td></tr>
+        <tr><th>LD</th><th>RD</th></tr>
+        <tr><td>Samuel Girard</td><td>Devon Toews</td></tr>
+        <tr><td>Jack Johnson</td><td>Bowen Byram</td></tr>
+        <tr><td>Kurtis MacDermid</td><td>Erik Johnson</td></tr>
+
+    </table>
+</div>
+<table>
+    <caption>Goaltenders</caption>
+    <tr><th>#</th><th>Name</th><th>Record</th><th>GAA</th><th>SV%</th></tr>
+    <tr><td>31</td><td>Jonas Johansson</td><td>2-0-0</td><td>2.10</td><td>.932</td></tr>
+    <tr><td>39</td><td>Pavel Francouz</td><td>7-7-1</td><td>2.53</td><td>.919</td></tr>
+    <tr><td>40</td><td>Alexander Georgiev</td><td>35-16-5</td><td>2.54</td><td>.918</td></tr>
+</table>
+<analytics>
+    <table class ="table table-sortable">
+        <caption> Starting Roster </caption>
+        <thead>
+        <tr><th>#</th><th>Name</th><th>Corsi</th><th>xG</th></tr>
+        </thead>
+        <tbody>
+        <tr><td>3</td><td>Jack Johnson</td><td>2</td><td>2</td></tr>
+        <tr><td>4</td><td>Bowen Byram</td><td>10</td><td>14</td></tr>
+        <tr><td>6</td><td>Erik Johnson</td><td>0</td><td>8</td></tr>
+        <tr><td>7</td><td>Devon Toews</td><td>6</td><td>42</td></tr>
+        <tr><td>8</td><td>Cale Makar</td><td>17</td><td>49</td></tr>
+        <tr><td>9</td><td>Evan Rodriques</td><td>16</td><td>22</td></tr>
+        <tr><td>11</td><td>Andrew Cogliano</td><td>10</td><td>9</td></tr>
+        <tr><td>13</td><td>Valeri Nichushkin</td><td>17</td><td>30</td></tr>
+        <tr><td>17</td><td>Brad Hunt</td><td>4</td><td>6</td></tr>
+        <tr><td>18</td><td>Alex Newhook</td><td>14</td><td>16</td></tr>
+        <tr><td>20</td><td>Lars Eller</td><td>3</td><td>4</td></tr>
+        <tr><td>25</td><td>Logan O'Connor</td><td>9</td><td>17</td></tr>
+        <tr><td>29</td><td>Nathan MacKinnon</td><td>39</td><td>68</td></tr>
+        <tr><td>37</td><td>J.T. Compher</td><td>17</td><td>35</td></tr>
+        <tr><td>42</td><td>Josh Mason</td><td>2</td><td>8</td></tr>
+        <tr><td>43</td><td>Darren Helm</td><td>0</td><td>0</td></tr>
+        <tr><td>49</td><td>Samuel Girard</td><td>6</td><td>30</td></tr>
+        <tr><td>56</td><td>Kurtis MacDermid</td><td>1</td><td>5</td></tr>
+        <tr><td>62</td><td>Artturi Lehkonen</td><td>21</td><td>30</td></tr>
+        <tr><td>81</td><td>Denis Malgin</td><td>11</td><td>6</td></tr>
+        <tr><td>83</td><td>Matt Nieto</td><td>4</td><td>5</td></tr>
+        <tr><td>96</td><td>Mikko Rantanen</td><td>55</td><td>48</td></tr>
+        </tbody>
+    </table>
+</analytics>
+<script src ="tablesort.js"></script>
+<a href="index.html">Home</a>
+</body>
