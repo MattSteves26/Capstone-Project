@@ -12,7 +12,9 @@ searchInput.addEventListener("input", e => {
   })
 })
 
-fetch("playersearch.txt")
+
+
+fetch("http://localhost:3000/Players")
   .then(res => res.json())
   .then(data => {
     users = data.map(user => {

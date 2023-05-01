@@ -1,0 +1,49 @@
+[
+    {
+        "id": 527,
+        "name": "Jacob Peterson (F)",
+        "team": "SJS"
+      },
+
+      {
+        "id": 528,
+        "name": "James Reimer (G)",
+        "team": "SJS"
+      },
+
+      {
+        "id": 529,
+        "name": "Radim Simek (D)",
+        "team": "SJS"
+      },
+
+      {
+        "id": 530,
+        "name": "Nico Sturm (D)",
+        "team": "SJS"
+      },
+
+      {
+        "id": 531,
+        "name": "Evgeny Svechnikov (F)",
+        "team": "SJS"
+      },
+
+      {
+        "id": 532,
+        "name": "Marc-Edouard Vlasic (D)",
+        "team": "SJS"
+      },
+
+      {
+        "id": 533,
+        "name": "Fabian Zetterlund (F)",
+        "team": "SJS"
+      },
+
+      {
+        "id": 534,
+        "name": "Matty Beniers (F)",
+        "team": "SEA"
+      }
+]
