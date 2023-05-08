@@ -7,20 +7,24 @@
   <script src="playersearch.js" defer></script>
 </head>
 <body>
+Select Season:
+<button onclick= "Stats2023()">2022-2023 Stats</button>
+&nbsp;&nbsp;
+<button onclick="Stats2022()">2021-2022 Stats</button>
+<br>
+<br>
 <div class = "search-wrapper">
   <label for="search">Search for player by name or team:</label>
   <input type="search" id="search" data-search>
 </div>
 <div class="player-cards" data-user-cards-container>
   <template data-user-template>
-    <div class = "card">
+    <div class = "card hide">
       <div class="header" data-header></div>
       <div class="body" data-body></div>
     </div>
   </template>
 </div>
-
-
 
 <a href="index.html">Home</a>
 </body>

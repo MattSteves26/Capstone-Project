@@ -2,74 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac8cbac0-9dfe-4644-9ef8-4f553a81efd1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HockeyDB/ANATable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/ARITable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/BOSTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/BUFTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/CALTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/CARTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/CBJTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/CHITable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/COLTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/DALTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/DETTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/EDMTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/FLATable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/LAKTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/MINTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/MTLTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/NJDTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/NSHTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/NYITable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/NYRTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/OTTTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/PHITable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/PITTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/SEATable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/SJSTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/STLTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/TBLTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/TORTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/VANTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/VGKTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/WPGTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/WSHTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/sharktest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HockeyDB/tablefetch.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/AllStats.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/AllStats.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Anaheim.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Anaheim.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Arizona.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Arizona.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Boston.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Boston.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Buffalo.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Buffalo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Calgary.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Calgary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Carolina.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Carolina.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Chicago.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Chicago.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Colorado.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Colorado.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Columbus.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Columbus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Dallas.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Dallas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Detriot.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Detriot.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Edmonton.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Edmonton.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Florida.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Florida.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/LosAngeles.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/LosAngeles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Minnesota.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Minnesota.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Montreal.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Montreal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/NYIslanders.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/NYIslanders.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/NYRangers.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/NYRangers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Nashville.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Nashville.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/NewJersey.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/NewJersey.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Ottawa.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Ottawa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Philadelphia.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Philadelphia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Pittsburgh.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Pittsburgh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/STLouis.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/STLouis.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/SanJose.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/SanJose.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Seattle.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Seattle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/TampaBay.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/TampaBay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Toronto.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Toronto.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Vancouver.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Vancouver.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Vegas.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Vegas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Washington.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Washington.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HockeyDB/Winnipeg.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/Winnipeg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HockeyDB/PlayerSearch.html" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/PlayerSearch.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HockeyDB/playersearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/HockeyDB/playersearch.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
